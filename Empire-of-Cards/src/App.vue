@@ -3,9 +3,10 @@ import { ref, onMounted } from 'vue'
 import MarkdownPage from '@/components/MarkdownPage.vue' // Import MarkdownPage
 
 // Import markdown files dynamically
-const contentFiles: Record<string, () => Promise<{ default: string }>> = import.meta.glob(
+const contentFiles: Record<string, () => Promise<string>> = import.meta.glob(
   './content/**/*.md',
-) as Record<string, () => Promise<{ default: string }>>
+  { as: 'raw' }, // Add this option to load markdown as raw text
+) as Record<string, () => Promise<string>>
 
 // **Type Declarations**
 type FileEntry = {
@@ -56,7 +57,7 @@ const showMarkdownContent = async (filePath: string, fileName: string) => {
 
   try {
     const module = await contentFiles[filePath]?.()
-    selectedContent.value = module?.default || 'Error: No content found.'
+    selectedContent.value = module || 'Error: No content found.'
   } catch (error) {
     console.error('Error loading markdown file:', error)
     errorMessage.value = 'Error loading content. Please try again.'

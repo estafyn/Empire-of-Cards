@@ -5,7 +5,8 @@ import { defineProps } from 'vue'
 defineProps<{ content: string; title: string }>()
 
 const renderMarkdown = (markdown: string) => {
-  if (!markdown.trim()) return '<p>No content to display.</p>' // Handle empty markdown case
+  console.log('Markdown Content:', markdown) // Debugging to check what content contains
+  if (!markdown.trim()) return '<p>No content to display.</p>'
   try {
     const result = marked.parse(markdown)
     return result
