@@ -76,11 +76,7 @@ onMounted(loadFiles)
   <!-- Main Section -->
   <main class="py-16 bg-gray-100">
     <div class="max-w-4xl mx-auto text-center px-6">
-      <img
-        src="@/assets/logo.png"
-        alt="Empire of Cards Logo"
-        class="mx-auto mb-6 w-2 h-2 rounded-full object-contain"
-      />
+      <img src="@/assets/logo.png" alt="Empire of Cards Logo" class="w-48 h-48 mx-auto mb-6" />
       <h2 class="text-4xl font-bold mb-4">Welcome to the Empire of Cards</h2>
       <p class="text-lg text-gray-700 mb-6">
         Step into the world of Sahul, where history is shaped by feathers and fire.
