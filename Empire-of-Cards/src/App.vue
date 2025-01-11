@@ -1,5 +1,6 @@
 <script setup lang="ts">
 import { ref, onMounted } from 'vue'
+import MarkdownPage from '@/components/MarkdownPage.vue' // Import MarkdownPage
 
 // Import markdown files dynamically
 const contentFiles: Record<string, () => Promise<{ default: string }>> = import.meta.glob(
@@ -18,6 +19,7 @@ type FolderStructure = Record<string, FileEntry[]>
 // **Reactive State**
 const folders = ref<Record<string, FolderStructure>>({})
 const selectedContent = ref<string | null>(null)
+const selectedTitle = ref<string | null>(null)
 const isLoading = ref(false)
 const errorMessage = ref<string | null>(null)
 
@@ -47,14 +49,16 @@ const loadFiles = async () => {
 }
 
 // **Function to Load and Display Markdown Content**
-const showMarkdownContent = async (filePath: string) => {
+const showMarkdownContent = async (filePath: string, fileName: string) => {
   isLoading.value = true
   errorMessage.value = null
+  selectedTitle.value = fileName.replace(/-/g, ' ').replace(/^\w/, (c) => c.toUpperCase())
 
   try {
     const module = await contentFiles[filePath]?.()
     selectedContent.value = module?.default || 'Error: No content found.'
   } catch (error) {
+    console.error('Error loading markdown file:', error)
     errorMessage.value = 'Error loading content. Please try again.'
   } finally {
     isLoading.value = false
@@ -105,7 +109,7 @@ onMounted(loadFiles)
               <ul class="list-disc list-inside">
                 <li v-for="file in files" :key="file.path">
                   <button
-                    @click="showMarkdownContent(file.path)"
+                    @click="showMarkdownContent(file.path, file.name)"
                     class="text-yellow-400 hover:text-yellow-200 hover:bg-yellow-600 px-2 py-1 rounded-md focus:outline-none focus:ring focus:ring-yellow-300 transition-colors"
                   >
                     {{ file.name.replace(/-/g, ' ').replace(/^\w/, (c) => c.toUpperCase()) }}
@@ -123,26 +127,12 @@ onMounted(loadFiles)
         <div v-if="errorMessage" class="mt-10 text-center text-red-500">{{ errorMessage }}</div>
 
         <!-- Markdown Content Display -->
-        <div
-          v-if="selectedContent && !isLoading"
-          class="mt-10 prose bg-stone-900 text-yellow-300 p-6 rounded-lg shadow-lg border border-yellow-600"
-        >
-          <h3 class="text-xl font-semibold mb-4">Selected Content</h3>
-          <article v-html="selectedContent"></article>
-        </div>
+        <MarkdownPage
+          v-if="selectedContent && !isLoading && selectedTitle"
+          :content="selectedContent"
+          :title="selectedTitle"
+        />
       </div>
     </section>
   </main>
 </template>
-
-<style scoped>
-/* Responsive styling for mobile and larger screens */
-img {
-  max-width: 100%;
-  height: auto;
-}
-
-button {
-  @apply font-semibold transition-colors duration-300;
-}
-</style>
