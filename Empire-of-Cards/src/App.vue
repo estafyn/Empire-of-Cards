@@ -13,42 +13,68 @@ type FileEntry = {
 }
 
 type FolderStructure = {
-  [key: string]: FileEntry[]
+  rootFiles: FileEntry[]
+  folders: {
+    [key: string]: FileEntry[]
+  }
 }
 
-const folders = ref<FolderStructure>({})
+const folderStructure = ref<FolderStructure>({
+  rootFiles: [],
+  folders: {},
+})
+
 const selectedContent = ref<string | null>(null)
 const selectedTitle = ref<string | null>(null)
 const isLoading = ref(false)
 const errorMessage = ref<string | null>(null)
 const showSidebar = ref(true)
 
+const formatTitle = (text: string) => {
+  return text.replace(/-/g, ' ').replace(/^\w/, (c) => c.toUpperCase())
+}
+
 const loadFiles = async () => {
   try {
-    const newFolders: FolderStructure = {}
+    const newStructure: FolderStructure = {
+      rootFiles: [],
+      folders: {},
+    }
 
     for (const path in contentFiles) {
       const parts = path.split('/')
-      const folderName = parts[2] // Gets folder name like 'creatures', 'locations', etc.
-
-      if (!newFolders[folderName]) {
-        newFolders[folderName] = []
-      }
-
       const fileName = parts[parts.length - 1].replace('.md', '')
-      newFolders[folderName].push({
-        name: fileName,
-        path,
-        content: null,
-      })
+
+      // Check if the file is in the root content directory or in a subdirectory
+      if (parts.length <= 3) {
+        // This is a root file (like /content/example.md)
+        newStructure.rootFiles.push({
+          name: fileName,
+          path,
+          content: null,
+        })
+      } else {
+        // This is a file in a folder (like /content/folder/example.md)
+        const folderName = parts[2]
+        if (!newStructure.folders[folderName]) {
+          newStructure.folders[folderName] = []
+        }
+        newStructure.folders[folderName].push({
+          name: fileName,
+          path,
+          content: null,
+        })
+      }
     }
 
-    // Sort folders and files alphabetically
-    for (const folder in newFolders) {
-      newFolders[folder].sort((a, b) => a.name.localeCompare(b.name))
+    // Sort root files and folders alphabetically
+    newStructure.rootFiles.sort((a, b) => a.name.localeCompare(b.name))
+
+    for (const folder in newStructure.folders) {
+      newStructure.folders[folder].sort((a, b) => a.name.localeCompare(b.name))
     }
 
-    folders.value = newFolders
+    folderStructure.value = newStructure
   } catch (error) {
     console.error('Error loading files:', error)
     errorMessage.value = 'Error loading file structure.'
@@ -58,7 +84,7 @@ const loadFiles = async () => {
 const showMarkdownContent = async (filePath: string, fileName: string) => {
   isLoading.value = true
   errorMessage.value = null
-  selectedTitle.value = fileName.replace(/-/g, ' ').replace(/^\w/, (c) => c.toUpperCase())
+  selectedTitle.value = formatTitle(fileName)
 
   try {
     const markdownContent = await contentFiles[filePath]?.()
@@ -138,17 +164,37 @@ onMounted(loadFiles)
         >
           <div class="p-6 overflow-y-auto h-full">
             <h3 class="text-2xl font-bold text-yellow-300 mb-6">Table of Contents</h3>
-            <div v-for="(files, folderName) in folders" :key="folderName" class="mb-6">
+
+            <!-- Root Files -->
+            <div v-if="folderStructure.rootFiles.length > 0" class="mb-8">
+              <ul class="space-y-2">
+                <li v-for="file in folderStructure.rootFiles" :key="file.path">
+                  <button
+                    @click="showMarkdownContent(file.path, file.name)"
+                    class="w-full text-left text-yellow-400 hover:text-yellow-200 hover:bg-yellow-600/20 px-3 py-1.5 rounded-md focus:outline-none focus:ring-2 focus:ring-yellow-300 transition-colors"
+                  >
+                    {{ formatTitle(file.name) }}
+                  </button>
+                </li>
+              </ul>
+            </div>
+
+            <!-- Folders -->
+            <div
+              v-for="(files, folderName) in folderStructure.folders"
+              :key="folderName"
+              class="mb-6"
+            >
               <h5 class="text-lg font-bold text-yellow-300 mb-2 capitalize">
-                {{ folderName.replace(/-/g, ' ') }}
+                {{ formatTitle(folderName) }}
               </h5>
               <ul class="space-y-2">
                 <li v-for="file in files" :key="file.path">
                   <button
                     @click="showMarkdownContent(file.path, file.name)"
-                    class="w-full text-left text-yellow-400 hover:text-yellow-200 hover:bg-yellow-600/20 px-3 py-1.5 rounded-md focus:outline-none focus:ring-2 focus:ring-yellow-300 transition-colors"
+                    class="w-full text-left text-yellow-400 hover:text-yellow-200 hover:bg-yellow-600/20 px-3 py-1.5 rounded-md focus:outline-none focus:ring-2 focus:ring-yellow-300 transition-colors pl-6"
                   >
-                    {{ file.name.replace(/-/g, ' ').replace(/^\w/, (c) => c.toUpperCase()) }}
+                    {{ formatTitle(file.name) }}
                   </button>
                 </li>
               </ul>
