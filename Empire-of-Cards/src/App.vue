@@ -3,7 +3,7 @@ import { ref, onMounted } from 'vue'
 
 // Import markdown files dynamically
 const contentFiles: Record<string, () => Promise<{ default: string }>> = import.meta.glob(
-  '@/content/**/*.md',
+  './content/**/*.md',
 ) as Record<string, () => Promise<{ default: string }>>
 
 // **Type Declarations**
