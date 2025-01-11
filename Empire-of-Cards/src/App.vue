@@ -186,7 +186,7 @@ onMounted(loadFiles)
               class="mb-6"
             >
               <h5 class="text-lg font-bold text-yellow-300 mb-2 capitalize">
-                {{ formatTitle(folderName) }}
+                {{ formatTitle(folderName.toString()) }}
               </h5>
               <ul class="space-y-2">
                 <li v-for="file in files" :key="file.path">
