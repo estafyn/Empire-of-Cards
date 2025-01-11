@@ -1,12 +1,12 @@
 <script setup lang="ts">
 import { ref, onMounted } from 'vue'
-import MarkdownPage from '@/components/MarkdownPage.vue' // Import MarkdownPage
+import MarkdownPage from '@/components/MarkdownPage.vue'
 
-// Import markdown files dynamically
+// Import markdown files dynamically as raw text
 const contentFiles: Record<string, () => Promise<string>> = import.meta.glob(
   './content/**/*.md',
-  { as: 'raw' }, // Add this option to load markdown as raw text
-) as Record<string, () => Promise<string>>
+  { as: 'raw' }, // Load markdown as raw text
+)
 
 // **Type Declarations**
 type FileEntry = {
@@ -27,7 +27,7 @@ const errorMessage = ref<string | null>(null)
 // **Helper Function to Load Markdown Files**
 const loadFiles = async () => {
   const processFiles = async (
-    files: Record<string, () => Promise<{ default: string }>>,
+    files: Record<string, () => Promise<string>>, // Update to reflect that it returns `Promise<string>`
     category: string,
   ) => {
     for (const path in files) {
@@ -56,8 +56,8 @@ const showMarkdownContent = async (filePath: string, fileName: string) => {
   selectedTitle.value = fileName.replace(/-/g, ' ').replace(/^\w/, (c) => c.toUpperCase())
 
   try {
-    const module = await contentFiles[filePath]?.()
-    selectedContent.value = module || 'Error: No content found.'
+    const markdownContent = await contentFiles[filePath]?.()
+    selectedContent.value = markdownContent || 'Error: No content found.'
   } catch (error) {
     console.error('Error loading markdown file:', error)
     errorMessage.value = 'Error loading content. Please try again.'
@@ -71,14 +71,12 @@ onMounted(loadFiles)
 </script>
 
 <template>
-  <!-- Header Section -->
   <header class="bg-stone-900 text-yellow-300 shadow-md p-5 border-b-4 border-yellow-700">
     <div class="max-w-7xl mx-auto flex justify-between items-center">
       <h1 class="text-4xl font-bold font-serif tracking-wider">Empire of Cards</h1>
     </div>
   </header>
 
-  <!-- Main Section -->
   <main class="py-16 bg-stone-800 text-yellow-200">
     <div class="max-w-4xl mx-auto text-center px-6">
       <img
@@ -92,12 +90,10 @@ onMounted(loadFiles)
       </p>
     </div>
 
-    <!-- Content Section -->
     <section class="mt-16 bg-stone-700 py-12 rounded-xl shadow-xl border border-yellow-600">
       <div class="max-w-4xl mx-auto px-6">
         <h3 class="text-3xl font-bold mb-6 font-serif text-yellow-200">Explore Stories and Lore</h3>
 
-        <!-- Folder Structure Display -->
         <div class="grid grid-cols-1 gap-8">
           <div
             v-for="(foldersList, category) in folders"
@@ -121,13 +117,9 @@ onMounted(loadFiles)
           </div>
         </div>
 
-        <!-- Loading State -->
         <div v-if="isLoading" class="mt-10 text-center text-yellow-300">Loading content...</div>
-
-        <!-- Error Message -->
         <div v-if="errorMessage" class="mt-10 text-center text-red-500">{{ errorMessage }}</div>
 
-        <!-- Markdown Content Display -->
         <MarkdownPage
           v-if="selectedContent && !isLoading && selectedTitle"
           :content="selectedContent"
