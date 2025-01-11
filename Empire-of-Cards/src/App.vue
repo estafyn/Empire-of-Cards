@@ -1,12 +1,12 @@
 <script setup lang="ts">
 import { ref } from 'vue'
-import { RouterLink } from 'vue-router'
 
 // Import markdown files dynamically
-const storyFiles = import.meta.glob('@/stories/**/*.md')
-const loreFiles = import.meta.glob('@/lore/**/*.md')
+const contentFiles: Record<string, () => Promise<{ default: string }>> = import.meta.glob(
+  '@/content/**/*.md',
+) as Record<string, () => Promise<{ default: string }>>
 
-// Define folder structure
+// Define types
 type FileEntry = {
   name: string
   path: string
@@ -17,9 +17,13 @@ type FolderStructure = {
   [folderName: string]: FileEntry[]
 }
 
+// Reactive data
 const folders = ref<{ [category: string]: FolderStructure }>({})
 const selectedContent = ref<string | null>(null)
+const isLoading = ref(false)
+const errorMessage = ref<string | null>(null)
 
+// Load files and organize folder structure
 const loadFiles = async () => {
   const processFiles = async (
     files: Record<string, () => Promise<{ default: string }>>,
@@ -27,7 +31,7 @@ const loadFiles = async () => {
   ) => {
     for (const path in files) {
       const parts = path.split('/')
-      const folderName = parts[2] // e.g., "src/stories/{folder}/{file}.md"
+      const folderName = parts[2] // e.g., "src/content/{folder}/{file}.md"
       if (!folders.value[category]) folders.value[category] = {}
       if (!folders.value[category][folderName]) folders.value[category][folderName] = []
 
@@ -40,13 +44,21 @@ const loadFiles = async () => {
     }
   }
 
-  await processFiles(storyFiles, 'stories')
-  await processFiles(loreFiles, 'lore')
+  await processFiles(contentFiles, 'content')
 }
 
+// Show markdown content
 const showMarkdownContent = async (filePath: string) => {
-  const module = (await storyFiles[filePath]?.()) || loreFiles[filePath]?.()
-  selectedContent.value = module?.default || 'Error loading content.'
+  isLoading.value = true
+  errorMessage.value = null
+  try {
+    const module = (await contentFiles[filePath]?.()) as { default: string }
+    selectedContent.value = module.default || 'Error: No content found.'
+  } catch (error) {
+    errorMessage.value = 'Error loading content. Please try again.'
+  } finally {
+    isLoading.value = false
+  }
 }
 
 // Load files when component is mounted
@@ -73,7 +85,7 @@ loadFiles()
       <div class="max-w-4xl mx-auto px-6">
         <h3 class="text-3xl font-bold mb-6">Explore Stories and Lore</h3>
 
-        <!-- Display folder structure for stories and lore -->
+        <!-- Display folder structure for content -->
         <div class="grid grid-cols-1 gap-8">
           <div
             v-for="(foldersList, category) in folders"
@@ -89,7 +101,7 @@ loadFiles()
                     @click="showMarkdownContent(file.path)"
                     class="text-blue-700 hover:underline focus:outline-none focus:ring focus:ring-blue-300"
                   >
-                    {{ file.name.replaceAll('-', ' ').replace(/^\w/, (c) => c.toUpperCase()) }}
+                    {{ file.name.replace(/-/g, ' ').replace(/^\w/, (c) => c.toUpperCase()) }}
                   </button>
                 </li>
               </ul>
@@ -97,8 +109,19 @@ loadFiles()
           </div>
         </div>
 
+        <!-- Display loading state -->
+        <div v-if="isLoading" class="mt-10 text-center text-blue-700">Loading content...</div>
+
+        <!-- Display error message -->
+        <div v-if="errorMessage" class="mt-10 text-center text-red-500">
+          {{ errorMessage }}
+        </div>
+
         <!-- Display selected markdown content -->
-        <div v-if="selectedContent" class="mt-10 prose bg-gray-50 p-6 rounded-lg shadow">
+        <div
+          v-if="selectedContent && !isLoading"
+          class="mt-10 prose bg-gray-50 p-6 rounded-lg shadow"
+        >
           <h3 class="text-xl font-semibold mb-4">Selected Content</h3>
           <article v-html="selectedContent"></article>
         </div>
