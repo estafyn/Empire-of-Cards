@@ -19,6 +19,7 @@ const selectedContent = ref<string | null>(null)
 const selectedTitle = ref<string | null>(null)
 const isLoading = ref(false)
 const errorMessage = ref<string | null>(null)
+const showSidebar = ref(true)
 
 const loadFiles = async () => {
   const processFiles = async (files: Record<string, () => Promise<string>>, category: string) => {
@@ -56,65 +57,115 @@ const showMarkdownContent = async (filePath: string, fileName: string) => {
     isLoading.value = false
   }
 }
+
 onMounted(loadFiles)
 </script>
 
 <template>
-  <header class="bg-stone-900 text-yellow-300 shadow-md p-5 border-b-4 border-yellow-700">
-    <div class="max-w-7xl mx-auto flex justify-between items-center">
-      <h1 class="text-4xl font-bold font-serif tracking-wider">Empire of Cards</h1>
-    </div>
-  </header>
+  <div class="min-h-screen bg-stone-800">
+    <!-- Header -->
+    <header
+      class="bg-stone-900 text-yellow-300 shadow-md p-5 border-b-4 border-yellow-700 sticky top-0 z-50"
+    >
+      <div class="max-w-7xl mx-auto flex justify-between items-center">
+        <div class="flex items-center gap-4">
+          <img
+            src="@/assets/logo.png"
+            alt="Empire of Cards Logo"
+            class="h-12 w-12 rounded-full shadow-lg border-2 border-yellow-600"
+          />
+          <h1 class="text-4xl font-bold font-serif tracking-wider">Empire of Cards</h1>
+        </div>
+        <button
+          @click="showSidebar = !showSidebar"
+          class="md:hidden text-yellow-300 hover:text-yellow-200 transition-colors"
+        >
+          <span class="sr-only">Toggle Menu</span>
+          <svg class="h-6 w-6" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+            <path
+              v-if="showSidebar"
+              stroke-linecap="round"
+              stroke-linejoin="round"
+              stroke-width="2"
+              d="M6 18L18 6M6 6l12 12"
+            />
+            <path
+              v-else
+              stroke-linecap="round"
+              stroke-linejoin="round"
+              stroke-width="2"
+              d="M4 6h16M4 12h16M4 18h16"
+            />
+          </svg>
+        </button>
+      </div>
+    </header>
 
-  <main class="py-16 bg-stone-800 text-yellow-200">
-    <div class="max-w-4xl mx-auto text-center px-6">
-      <img
-        src="@/assets/logo.png"
-        alt="Empire of Cards Logo"
-        class="w-40 h-40 mx-auto mb-6 rounded-full shadow-lg border-4 border-yellow-600"
-      />
-      <h2 class="text-5xl font-bold mb-4 font-serif text-yellow-300">Welcome to Sahul's Legacy</h2>
-      <p class="text-xl mb-6 text-yellow-400">
-        Where iron tracks meet the jungle, and legends are carved in steel and feathers.
-      </p>
-    </div>
-
-    <section class="mt-16 bg-stone-700 py-12 rounded-xl shadow-xl border border-yellow-600">
-      <div class="max-w-4xl mx-auto px-6">
-        <h3 class="text-3xl font-bold mb-6 font-serif text-yellow-200">Explore Stories and Lore</h3>
-
-        <div class="grid grid-cols-1 gap-8">
-          <div
-            v-for="(foldersList, category) in folders"
-            :key="category"
-            class="bg-stone-800 p-6 rounded-lg shadow-lg border border-yellow-500"
-          >
-            <h4 class="text-2xl font-semibold mb-4 capitalize text-yellow-300">{{ category }}</h4>
-            <div v-for="(files, folderName) in foldersList" :key="folderName" class="mb-4">
-              <h5 class="text-lg font-bold text-yellow-400">{{ folderName }}</h5>
-              <ul class="list-disc list-inside">
-                <li v-for="file in files" :key="file.path">
-                  <button
-                    @click="showMarkdownContent(file.path, file.name)"
-                    class="text-yellow-400 hover:text-yellow-200 hover:bg-yellow-600 px-2 py-1 rounded-md focus:outline-none focus:ring focus:ring-yellow-300 transition-colors"
-                  >
-                    {{ file.name.replace(/-/g, ' ').replace(/^\w/, (c) => c.toUpperCase()) }}
-                  </button>
-                </li>
-              </ul>
+    <!-- Main Content with Sidebar -->
+    <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+      <div class="flex gap-6 pt-6">
+        <!-- Sidebar -->
+        <aside
+          :class="[
+            'bg-stone-900 rounded-lg shadow-lg border border-yellow-700',
+            showSidebar ? 'block' : 'hidden md:block',
+            'w-full md:w-64 lg:w-80 flex-shrink-0',
+            'transition-all duration-300 ease-in-out',
+            'sticky top-24 h-[calc(100vh-6rem)]',
+          ]"
+        >
+          <div class="p-6 overflow-y-auto h-full">
+            <h3 class="text-2xl font-bold text-yellow-300 mb-6">Table of Contents</h3>
+            <div v-for="(foldersList, category) in folders" :key="category">
+              <h4 class="text-xl font-semibold mb-3 capitalize text-yellow-400">{{ category }}</h4>
+              <div v-for="(files, folderName) in foldersList" :key="folderName" class="mb-6">
+                <h5 class="text-lg font-bold text-yellow-300 mb-2">{{ folderName }}</h5>
+                <ul class="space-y-2">
+                  <li v-for="file in files" :key="file.path">
+                    <button
+                      @click="showMarkdownContent(file.path, file.name)"
+                      class="w-full text-left text-yellow-400 hover:text-yellow-200 hover:bg-yellow-600/20 px-3 py-1.5 rounded-md focus:outline-none focus:ring-2 focus:ring-yellow-300 transition-colors"
+                    >
+                      {{ file.name.replace(/-/g, ' ').replace(/^\w/, (c) => c.toUpperCase()) }}
+                    </button>
+                  </li>
+                </ul>
+              </div>
             </div>
           </div>
-        </div>
+        </aside>
 
-        <div v-if="isLoading" class="mt-10 text-center text-yellow-300">Loading content...</div>
-        <div v-if="errorMessage" class="mt-10 text-center text-red-500">{{ errorMessage }}</div>
+        <!-- Main Content Area -->
+        <main class="flex-1 min-w-0">
+          <div class="bg-stone-700 rounded-lg shadow-lg border border-yellow-600 p-8">
+            <!-- Initial Welcome Content -->
+            <div v-if="!selectedContent && !isLoading" class="text-center">
+              <img
+                src="@/assets/logo.png"
+                alt="Empire of Cards Logo"
+                class="w-32 h-32 mx-auto mb-6 rounded-full shadow-lg border-4 border-yellow-600"
+              />
+              <h2 class="text-4xl font-bold mb-4 font-serif text-yellow-300">
+                Welcome to Sahul's Legacy
+              </h2>
+              <p class="text-xl mb-6 text-yellow-400">
+                Where iron tracks meet the jungle, and legends are carved in steel and feathers.
+              </p>
+            </div>
 
-        <MarkdownPage
-          v-if="selectedContent && !isLoading && selectedTitle"
-          :content="selectedContent"
-          :title="selectedTitle"
-        />
+            <!-- Loading and Error States -->
+            <div v-if="isLoading" class="text-center text-yellow-300">Loading content...</div>
+            <div v-if="errorMessage" class="text-center text-red-500">{{ errorMessage }}</div>
+
+            <!-- Markdown Content -->
+            <MarkdownPage
+              v-if="selectedContent && !isLoading && selectedTitle"
+              :content="selectedContent"
+              :title="selectedTitle"
+            />
+          </div>
+        </main>
       </div>
-    </section>
-  </main>
+    </div>
+  </div>
 </template>

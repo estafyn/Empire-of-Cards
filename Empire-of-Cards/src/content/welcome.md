@@ -1,0 +1,1 @@
+Welcome to Empire of Cards, in this project I hope the document the world in which my ancestors lived and tell their stories. feel free to browse and git me up if you have any questions, comments or suggestions
