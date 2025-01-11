@@ -2,13 +2,10 @@
 import { ref, onMounted } from 'vue'
 import MarkdownPage from '@/components/MarkdownPage.vue'
 
-// Import markdown files dynamically as raw text
-const contentFiles: Record<string, () => Promise<string>> = import.meta.glob(
-  './content/**/*.md',
-  { as: 'raw' }, // Load markdown as raw text
-)
+const contentFiles: Record<string, () => Promise<string>> = import.meta.glob('./content/**/*.md', {
+  as: 'raw',
+}) as unknown as Record<string, () => Promise<string>>
 
-// **Type Declarations**
 type FileEntry = {
   name: string
   path: string
@@ -17,22 +14,17 @@ type FileEntry = {
 
 type FolderStructure = Record<string, FileEntry[]>
 
-// **Reactive State**
 const folders = ref<Record<string, FolderStructure>>({})
 const selectedContent = ref<string | null>(null)
 const selectedTitle = ref<string | null>(null)
 const isLoading = ref(false)
 const errorMessage = ref<string | null>(null)
 
-// **Helper Function to Load Markdown Files**
 const loadFiles = async () => {
-  const processFiles = async (
-    files: Record<string, () => Promise<string>>, // Update to reflect that it returns `Promise<string>`
-    category: string,
-  ) => {
+  const processFiles = async (files: Record<string, () => Promise<string>>, category: string) => {
     for (const path in files) {
       const parts = path.split('/')
-      const folderName = parts[2] // e.g., "src/content/{folder}/{file}.md"
+      const folderName = parts[2]
 
       if (!folders.value[category]) folders.value[category] = {}
       if (!folders.value[category][folderName]) folders.value[category][folderName] = []
@@ -49,7 +41,6 @@ const loadFiles = async () => {
   await processFiles(contentFiles, 'content')
 }
 
-// **Function to Load and Display Markdown Content**
 const showMarkdownContent = async (filePath: string, fileName: string) => {
   isLoading.value = true
   errorMessage.value = null
@@ -65,8 +56,6 @@ const showMarkdownContent = async (filePath: string, fileName: string) => {
     isLoading.value = false
   }
 }
-
-// **Load Files on Mount**
 onMounted(loadFiles)
 </script>
 
