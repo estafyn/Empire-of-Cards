@@ -1,4 +1,4 @@
-# **Empire of Cards: Combined Style Guide**
+# **Style Guide**
 
 This guide provides a comprehensive framework for writing stories set in a parallel Sahul, where intelligent, tool-using cassowaries have evolved into the dominant species. It balances realism with creative speculation, emphasizing unique storytelling while reflecting real-world parallels.
 

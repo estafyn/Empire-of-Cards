@@ -1,4 +1,4 @@
-# **The Diprotodon-Powered Transport System**
+# **The Diprotodon Powered Transport System**
 
 ## **The Nature of Diprotodons**
 
