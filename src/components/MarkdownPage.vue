@@ -3,7 +3,7 @@ import { ref, watch } from 'vue'
 import MarkdownIt from 'markdown-it'
 
 // Define props
-const props = defineProps<{ filePath: string; title: string }>()
+const props = defineProps<{ filePath: string }>()
 
 const content = ref<string>('') // Holds the loaded Markdown content
 const md = new MarkdownIt({
@@ -38,7 +38,6 @@ watch(
   <article
     class="prose max-w-none bg-stone-800 p-8 rounded-xl shadow-lg border border-yellow-700 text-yellow-200"
   >
-    <h1 class="text-yellow-300 text-3xl font-bold mb-4">{{ props.title }}</h1>
     <div v-html="md.render(content)" class="markdown-content"></div>
   </article>
 </template>
