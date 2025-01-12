@@ -1,5 +1,6 @@
 <script setup lang="ts">
-// Type definitions for files and folder structure
+import { ref, onMounted } from 'vue'
+
 type FileEntry = {
   name: string
   path: string
@@ -12,28 +13,57 @@ type FolderStructure = {
   }
 }
 
-// Props
-defineProps<{ folderStructure: FolderStructure; selectedFilePath: string | null }>()
-
-// Emits
 const emit = defineEmits(['fileSelected'])
+const { selectedFilePath } = defineProps<{ selectedFilePath: string | null }>()
 
-// Format title helper function
+const folderStructure = ref<FolderStructure>({
+  rootFiles: [],
+  folders: {},
+})
+
 const formatTitle = (text: string): string => {
-  return text.replace(/\..*/g, ' ')
+  return text.replace(/\.[^/.]+$/, '')
 }
 
-// Handle file selection event
 const selectFile = (filePath: string, fileName: string): void => {
   emit('fileSelected', { filePath, fileName })
 }
+
+const loadFiles = async () => {
+  const contentFiles = import.meta.glob('@/assets/content/**/*.{md,png,jpg,webp}', {
+    eager: true,
+  }) as Record<string, { default: string }>
+
+  const newStructure: FolderStructure = {
+    rootFiles: [],
+    folders: {},
+  }
+
+  for (const path in contentFiles) {
+    const fileUrl = contentFiles[path].default
+    const parts = path.split('/')
+    const fileName = parts[parts.length - 1]
+
+    if (parts.length <= 4) {
+      newStructure.rootFiles.push({ name: fileName, path: fileUrl })
+    } else {
+      const folderName = parts[parts.length - 2]
+      if (!newStructure.folders[folderName]) {
+        newStructure.folders[folderName] = []
+      }
+      newStructure.folders[folderName].push({ name: fileName, path: fileUrl })
+    }
+  }
+
+  folderStructure.value = newStructure
+}
+
+onMounted(loadFiles)
 </script>
 
 <template>
   <div class="p-6 overflow-y-auto h-full">
     <h3 class="text-2xl font-bold text-yellow-300 mb-6">Table of Contents</h3>
-
-    <!-- Fallback message if no files are found -->
     <p
       v-if="!folderStructure.rootFiles.length && !Object.keys(folderStructure.folders).length"
       class="text-yellow-400"
@@ -41,8 +71,8 @@ const selectFile = (filePath: string, fileName: string): void => {
       No files found.
     </p>
 
-    <!-- Root Files List -->
     <div v-if="folderStructure.rootFiles.length > 0" class="mb-8">
+      <h4 class="text-lg font-bold text-yellow-300 mb-2">Root Files</h4>
       <ul class="space-y-2">
         <li v-for="file in folderStructure.rootFiles" :key="file.path">
           <button
@@ -61,7 +91,6 @@ const selectFile = (filePath: string, fileName: string): void => {
       </ul>
     </div>
 
-    <!-- Folder Lists -->
     <div v-for="(files, folderName) in folderStructure.folders" :key="folderName" class="mb-6">
       <h5 class="text-lg font-bold text-yellow-300 mb-2 capitalize">
         {{ formatTitle(folderName.toString()) }}
@@ -76,6 +105,7 @@ const selectFile = (filePath: string, fileName: string): void => {
               'hover:bg-yellow-600/20 ': file.path !== selectedFilePath,
             }"
             class="w-full text-left px-3 py-1.5 rounded-md transition-colors pl-6 text-yellow-400"
+            aria-label="Select file"
           >
             <span v-if="file.name.match(/\.(png|jpg|webp)$/)">🖼️</span>
             {{ formatTitle(file.name) }}
