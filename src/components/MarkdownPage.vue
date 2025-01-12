@@ -1,5 +1,4 @@
 <script setup lang="ts">
-import { defineProps } from 'vue'
 import MarkdownIt from 'markdown-it'
 
 defineProps<{ content: string; title: string }>()
