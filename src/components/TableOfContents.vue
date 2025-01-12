@@ -25,8 +25,8 @@ const formatTitle = (text: string): string => {
   return text.replace(/\.[^/.]+$/, '')
 }
 
-const selectFile = (filePath: string, fileName: string): void => {
-  emit('fileSelected', { filePath, fileName })
+const selectFile = (filePath: string): void => {
+  emit('fileSelected', { filePath })
 }
 
 const loadFiles = async () => {
@@ -76,7 +76,7 @@ onMounted(loadFiles)
       <ul class="space-y-2">
         <li v-for="file in folderStructure.rootFiles" :key="file.path">
           <button
-            @click="selectFile(file.path, file.name)"
+            @click="selectFile(file.path)"
             :aria-current="file.path === selectedFilePath ? 'page' : false"
             :class="{
               'border-4 border-yellow-400 bg-yellow-700/20': file.path === selectedFilePath,
@@ -98,7 +98,7 @@ onMounted(loadFiles)
       <ul class="space-y-2">
         <li v-for="file in files" :key="file.path">
           <button
-            @click="selectFile(file.path, file.name)"
+            @click="selectFile(file.path)"
             :aria-current="file.path === selectedFilePath ? 'page' : false"
             :class="{
               'border-4 border-yellow-400 bg-yellow-700/20': file.path === selectedFilePath,

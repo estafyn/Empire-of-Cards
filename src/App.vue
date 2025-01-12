@@ -5,13 +5,11 @@ import MarkdownPage from '@/components/MarkdownPage.vue'
 import ImageViewer from '@/components/ImageViewer.vue'
 
 // State variables
-const selectedFilePath = ref<string | null>('@/assets/content/Welcome.md')
-const selectedTitle = ref<string>('Welcome')
+const selectedFilePath = ref<string>('/src/assets/content/Welcome.md')
 const showSidebar = ref(true)
 
 const showContent = (file: { filePath: string; fileName: string }) => {
   selectedFilePath.value = file.filePath
-  selectedTitle.value = file.fileName.replace(/\.[^/.]+$/, '') // Remove extension for title
 }
 </script>
 
@@ -22,7 +20,9 @@ const showContent = (file: { filePath: string; fileName: string }) => {
     >
       <div class="max-w-7xl mx-auto flex justify-between items-center">
         <button
-          @click="showContent({ filePath: 'content/Welcome.md', fileName: 'Welcome.md' })"
+          @click="
+            showContent({ filePath: '/src/assets/content/Welcome.md', fileName: 'Welcome.md' })
+          "
           class="flex items-center gap-4"
         >
           <img src="/assets/logo.png" alt="Empire of Cards Logo" class="h-12 w-12" />
@@ -55,7 +55,7 @@ const showContent = (file: { filePath: string; fileName: string }) => {
                 ['.png', '.jpg', '.webp'].some((ext) => selectedFilePath?.endsWith(ext))
               "
               :src="selectedFilePath"
-              :alt="selectedTitle"
+              :alt="selectedFilePath"
             />
             <div v-else class="text-center text-red-500">No content available.</div>
           </div>
