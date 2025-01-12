@@ -3,7 +3,8 @@ import { ref, onMounted } from 'vue'
 import MarkdownPage from '@/components/MarkdownPage.vue'
 
 const contentFiles: Record<string, () => Promise<string>> = import.meta.glob('./content/**/*.md', {
-  as: 'raw',
+  query: '?raw',
+  import: 'default',
 }) as unknown as Record<string, () => Promise<string>>
 
 type FileEntry = {
