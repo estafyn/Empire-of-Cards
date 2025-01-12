@@ -5,12 +5,12 @@ import vueDevTools from 'vite-plugin-vue-devtools'
 export default defineConfig({
   plugins: [
     vue(),
-    vueDevTools(), // Add dev tools plugin
+    vueDevTools(), // Only enable in dev mode
   ],
   resolve: {
     alias: {
       '@': new URL('./src', import.meta.url).pathname,
     },
   },
-  assetsInclude: ['**/*.md'], // Ensures markdown files can be imported
+  assetsInclude: ['**/*.md', '**/*.png', '**/*.jpg', '**/*.webp'], // Include markdown and images
 })

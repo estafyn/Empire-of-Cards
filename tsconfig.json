@@ -10,6 +10,7 @@
     "lib": ["es2021", "dom"],
     "strict": true,
     "moduleResolution": "node",
-    "esModuleInterop": true
+    "esModuleInterop": true,
+    "types": ["vite/client"]
   }
 }
