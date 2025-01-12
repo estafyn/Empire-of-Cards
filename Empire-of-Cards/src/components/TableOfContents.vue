@@ -14,7 +14,7 @@ type FolderStructure = {
 }
 
 // Props
-defineProps<{ folderStructure: FolderStructure }>()
+defineProps<{ folderStructure: FolderStructure; selectedFilePath: string | null }>()
 
 // Emits
 const emit = defineEmits(['fileSelected'])
@@ -26,7 +26,7 @@ const formatTitle = (text: string) => {
 
 // Handle file selection
 const selectFile = (filePath: string, fileName: string) => {
-  emit('fileSelected', { filePath, fileName }) // Now `emit` is recognized
+  emit('fileSelected', { filePath, fileName })
 }
 </script>
 
@@ -40,7 +40,11 @@ const selectFile = (filePath: string, fileName: string) => {
         <li v-for="file in folderStructure.rootFiles" :key="file.path">
           <button
             @click="selectFile(file.path, file.name)"
-            class="w-full text-left text-yellow-400 hover:text-yellow-200 hover:bg-yellow-600/20 px-3 py-1.5 rounded-md focus:outline-none focus:ring-2 focus:ring-yellow-300 transition-colors"
+            :class="{
+              'border-4 border-yellow-400 bg-yellow-700/20': file.path === selectedFilePath,
+              'hover:bg-yellow-600/20 ': file.path !== selectedFilePath,
+            }"
+            class="w-full text-left px-3 py-1.5 rounded-md transition-colors text-yellow-400"
           >
             {{ formatTitle(file.name) }}
           </button>
@@ -57,7 +61,11 @@ const selectFile = (filePath: string, fileName: string) => {
         <li v-for="file in files" :key="file.path">
           <button
             @click="selectFile(file.path, file.name)"
-            class="w-full text-left text-yellow-400 hover:text-yellow-200 hover:bg-yellow-600/20 px-3 py-1.5 rounded-md focus:outline-none focus:ring-2 focus:ring-yellow-300 transition-colors pl-6"
+            :class="{
+              'border-4 border-yellow-400 bg-yellow-700/20': file.path === selectedFilePath,
+              'hover:bg-yellow-600/20 ': file.path !== selectedFilePath,
+            }"
+            class="w-full text-left px-3 py-1.5 rounded-md transition-colors pl-6 text-yellow-400"
           >
             {{ formatTitle(file.name) }}
           </button>
