@@ -1,16 +1,16 @@
 # Species Domestication Timeline
 
-This document outlines when and how various species were domesticated throughout cassowary civilization's development, connecting their evolutionary advantages to specific cultural needs.
+This document outlines when and how various species were domesticated throughout cassowary civilization's development between 90,000-80,000 BCE, connecting their evolutionary advantages to specific cultural needs.
 
 ---
 
-## Early Domestication (~1,000,000 - 500,000 BCE)
+## Early Phase Domestication (~90,000 - 88,000 BCE)
 
 ### **Insects and Arthropods**
 
 **Witchetty Grubs (Endoxyla leucomochla)**
 
-- **Time of Domestication:** ~800,000 BCE
+- **Time of Domestication:** ~89,500 BCE
 - **Natural Trait Utilization:** High protein and fat content made these larvae valuable nutritional resources.
 - **Domestication Process:**
   - Initial cultivation involved creating artificial host environments using decaying wood
@@ -20,7 +20,7 @@ This document outlines when and how various species were domesticated throughout
 
 **Honey Pot Ants (Camponotus inflatus)**
 
-- **Time of Domestication:** ~750,000 BCE
+- **Time of Domestication:** ~89,200 BCE
 - **Natural Trait Utilization:** Ability to store sweet nectar in their abdomens.
 - **Domestication Process:**
   - Early management involved identifying and protecting natural colonies
@@ -30,13 +30,13 @@ This document outlines when and how various species were domesticated throughout
 
 ---
 
-## Mid-Period Domestication (~500,000 - 50,000 BCE)
+## Mid-Phase Domestication (~88,000 - 85,000 BCE)
 
 ### **Bird Species**
 
 **Ravens (Corvus coronoides)**
 
-- **Time of Domestication:** ~200,000 BCE
+- **Time of Domestication:** ~87,000 BCE
 - **Natural Trait Utilization:**
   - Pack hunting and scavenging behaviors
   - Sensory capabilities for hunting and alerting
@@ -56,7 +56,7 @@ This document outlines when and how various species were domesticated throughout
 
 **Cockatoos (Cacatua galerita)**
 
-- **Time of Domestication:** ~100,000 BCE
+- **Time of Domestication:** ~86,000 BCE
 - **Natural Trait Utilization:**
   - Vocal mimicry abilities
   - Social bonding tendencies
@@ -72,13 +72,13 @@ This document outlines when and how various species were domesticated throughout
 
 ---
 
-## Late Period Domestication (~50,000 BCE - 5,000 BCE)
+## Late Phase Domestication (~85,000 - 82,000 BCE)
 
 ### **Mammals**
 
 **Diprotodons (Diprotodon optatum)**
 
-- **Time of Domestication:** ~30,000 BCE
+- **Time of Domestication:** ~84,500 BCE
 - **Natural Trait Utilization:**
   - Massive size and strength
   - Docile temperament when not threatened
@@ -91,11 +91,11 @@ This document outlines when and how various species were domesticated throughout
 - **Cultural Impact:**
   - Transformed transportation and heavy labor capabilities
   - Enabled large-scale mining and construction projects
-  - Supported the development of industrial processes (~5,000 BCE)
+  - Supported the development of industrial processes (~83,000 BCE)
 
 **Wallabies (Macropus agilis)**
 
-- **Time of Domestication:** ~25,000 BCE
+- **Time of Domestication:** ~84,000 BCE
 - **Natural Trait Utilization:**
   - Adaptability to various environments
   - Efficient water usage
@@ -115,7 +115,7 @@ This document outlines when and how various species were domesticated throughout
 
 **Eels (Anguilla australis)**
 
-- **Time of Domestication:** ~40,000 BCE
+- **Time of Domestication:** ~85,000 BCE
 - **Natural Trait Utilization:**
   - High protein content
   - Reliable migration patterns
@@ -123,7 +123,7 @@ This document outlines when and how various species were domesticated throughout
 - **Domestication Process:**
   - Creation of artificial channels and traps to capture migrating eels
   - Development of holding ponds for year-round harvesting
-  - Eventual breeding in captivity (~15,000 BCE)
+  - Eventual breeding in captivity (~83,500 BCE)
 - **Cultural Impact:**
   - Formed the basis of wetland farming techniques
   - Enabled high-density settlements near waterways
@@ -191,23 +191,18 @@ As species became domesticated, they were integrated into cassowary culture thro
 
 ---
 
-## Comparison with Human Domestication Patterns
+## Historical Context
 
-The cassowary domestication timeline parallels human domestication in many ways:
+The rapid domestication of multiple species within this 10,000-year window (90,000-80,000 BCE) represents an extraordinary period of cassowary innovation and cultural development. This accelerated domestication timeline was made possible by:
 
-- Initial focus on manageable, high-return species
-- Preference for species with social structures compatible with captivity
-- Gradual refinement of domestication techniques over thousands of years
-- Use of domesticated species as both practical resources and status symbols
-
-Key differences include:
-
-- Earlier domestication of insects due to cassowary's initial insectivorous diet
-- More sophisticated integration with avian species due to shared evolutionary heritage
-- Less emphasis on defensive domestication (guard animals) due to cassowary's natural defensive capabilities
+1. **Pre-existing Tool Use:** Cassowaries already possessed sophisticated manipulation capabilities.
+2. **Fire Management:** Controlled fire use enhanced cognitive development and settlement permanence.
+3. **Climate Stability:** The warm climate period with high biodiversity offered ideal conditions for animal management.
+4. **Social Organization:** Specialized roles within cassowary society enabled focused domestication efforts.
+5. **Knowledge Transfer:** Advanced communication systems allowed innovations to spread rapidly between settlements.
 
 ---
 
 ## Conclusion
 
-The domestication of various species provided the foundation for cassowary civilization's advancement from simple tool-users to a complex industrial society. Each domesticated species contributed unique capabilities that, when combined with cassowary intelligence and tool use, enabled technological and cultural developments that would have been impossible through cassowary evolution alone.
+The domestication of various species within this compressed timeframe provided the foundation for cassowary civilization's advancement from simple tool-users to a complex industrial society. Each domesticated species contributed unique capabilities that, when combined with cassowary intelligence and tool use, enabled technological and cultural developments that would have been impossible through cassowary evolution alone.
