@@ -1,9 +1,10 @@
 # Timeline
 
+**Note on Dating:** This timeline uses BCE (Before Common Era) dates for consistency and clarity. While cassowary evolution and human evolution occurred on different timescales, we use human BCE dates as a reference point to help readers understand the relative progression of events. The actual cassowary timeline would be significantly longer, but this dating system helps maintain narrative coherence.
+
 ## **1\. Ratite Ancestors Arrive in Sahul**
 
-**Human Time:** ~30 million years ago  
- **Cassowary Time:** ~30 million years ago
+**Date:** ~30,000,000 BCE
 
 **Environment:**
 
@@ -24,16 +25,11 @@
 - The ancestors of cassowaries adapt to Sahul's environment, evolving long legs for running and small wings for balance.
 - Diet shifts toward omnivory, with early cassowaries supplementing fruit with insects.
 
-**Split from the Human Timeline:**
-
-- No divergence yet. Both timelines follow the same evolutionary path as ratites become dominant megafaunal birds in Sahul.
-
 ---
 
 ### **2\. The Arms Race: Forelimb Evolution**
 
-**Human Time:** ~12-6 million years ago  
- **Cassowary Time:** ~12-6 million years ago
+**Date:** ~12,000,000 - 6,000,000 BCE
 
 **Environment:**
 
@@ -60,16 +56,11 @@
 - Increased shoulder mobility for climbing and object manipulation.
 - Rebalanced center of gravity for bipedal movement.
 
-**Split from the Human Timeline:**
-
-- In the cassowary world, forelimb evolution enables new survival strategies. In the human timeline, mammals continue as ground-based species adapting to savannas.
-
 ---
 
 ### **3\. The Age of Insect Farming**
 
-**Human Time:** ~2 million years ago  
- **Cassowary Time:** ~2 million years ago
+**Date:** ~2,000,000 BCE
 
 **Environment:**
 
@@ -99,8 +90,7 @@
 
 ### **4\. The Age of Fire**
 
-**Human Time:** \~1 million years ago  
- **Cassowary Time:** \~1 million years ago
+**Date:** ~1,000,000 BCE
 
 **Environment:**
 
@@ -122,16 +112,11 @@
 - Shorter necks evolve to balance larger heads.
 - Stronger pelvic muscles and longer legs improve upright posture, enabling cassowaries to tend their fires.
 
-**Split from the Human Timeline:**
-
-- Humans in Africa begin using simple tools and may have interacted with fire occasionally, but cassowaries establish it as a core part of their reproductive success.
-
 ---
 
 ### **5\. The Age of Expansion**
 
-**Human Time:** \~270,000 years ago  
- **Cassowary Time:** \~Year \-200,000
+**Date:** ~270,000 BCE
 
 **Environment:**
 
@@ -154,16 +139,11 @@
 - Upright posture becomes the norm, and cassowaries grow slightly taller to scan the open savanna.
 - Cassowaries gain broader social recognition, strengthening bonds with distant groups.
 
-**Split from the Human Timeline:**
-
-- Humans begin developing more advanced tool use and hunting techniques but remain isolated in Africa. Cassowaries spread across Sahul, forming early trade networks.
-
 ---
 
 ### **6\. The Age of Language**
 
-**Human Time:** \~15,000 BCE  
- **Cassowary Time:** \~Year \-56,000
+**Date:** ~15,000 BCE
 
 **Environment:**
 
@@ -185,16 +165,11 @@
 - Increased brain size allows for more advanced communication and problem-solving.
 - Chicks remain under parental care longer, fostering more complex learning.
 
-**Split from the Human Timeline:**
-
-- Humans in Africa develop their own early languages and begin migrating to other continents. Cassowaries remain isolated in Sahul but create vast communication networks.
-
 ---
 
 ### **7\. The Age of Written Language**
 
-**Human Time:** \~10,000 BCE  
- **Cassowary Time:** \~Year \-61,000
+**Date:** ~10,000 BCE
 
 **Environment:**
 
@@ -214,16 +189,11 @@
 
 - Longer communication-related vocal cords enable complex calls and "song histories."
 
-**Split from the Human Timeline:**
-
-- Humans begin farming and domesticating animals in Mesopotamia. Cassowaries develop written symbols to complement their verbal histories.
-
 ---
 
 ### **8\. The Age of Metallurgy**
 
-**Human Time:** \~5,000 BCE  
- **Cassowary Time:** \~Year \-66,000
+**Date:** ~5,000 BCE
 
 **Environment:**
 
@@ -239,19 +209,13 @@
 - Trade hubs become proto-cities, with specialized labor and artisans.
 - Religious and social rituals center around fire and metalwork.
 
-**Split from the Human Timeline:**
-
-- Humans build their first cities in Mesopotamia. Cassowaries begin constructing fortified trade outposts.
-
 ---
 
 9\. The Age of Queens
 
-Human Time: \~2,000 BCE
+**Date:** ~2,000 BCE
 
-Cassowary Time: \~Year \-68,000
-
-Environment:
+**Environment:**
 
 Northern Australia's rainforests remain rich, though they've receded from earlier borders.
 
@@ -281,19 +245,13 @@ Casques develop larger, more pronounced crests in some populations, signifying l
 
 Vocalization patterns evolve into complex calls used during royal announcements and public disputes.
 
-Split from the Human Timeline:
-
-Human civilizations in Mesopotamia and Egypt consolidate under kings and emperors. Cassowaries, by contrast, evolve matriarchal dynasties where female rulers negotiate through ritualized "fire treaties" rather than direct warfare.
-
-\---
+---
 
 10\. The Age of Companies
 
-Human Time: \~1700s CE (early industrial age)
+**Date:** ~1700s CE (early industrial age)
 
-Cassowary Time: \~Year \-69,800
-
-Environment:
+**Environment:**
 
 Northern Australia remains forested but dotted with industrial zones near ore-rich hills.
 
@@ -320,7 +278,3 @@ Cultural festivals shift from communal celebrations of fire to celebrations of c
 Biological Changes:
 
 Slight cognitive adaptations in some subgroups due to the mental demands of trade negotiation and resource management. These include increased memory capacity and specialization in navigational instincts.
-
-Split from the Human Timeline:
-
-Humans enter the age of colonial empires and industrial capitalism. Cassowaries parallel this through corporate empires focused on controlled resource extraction rather than colonization of distant continents.
