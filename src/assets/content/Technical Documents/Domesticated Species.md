@@ -39,7 +39,7 @@ This document outlines the key domesticated species in cassowary civilization, f
 
 ---
 
-## **2. Ravens: The Avian Scribes**
+## **2. Ravens: The Loyal Companions**
 
 **Species:** _Corvus coronoides_ (Australian Raven)
 
@@ -47,31 +47,32 @@ This document outlines the key domesticated species in cassowary civilization, f
 
 ### **Natural Traits Utilized:**
 
-- **Tool Use:** Natural propensity for manipulating objects with beak and feet
-- **Intelligence:** Problem-solving abilities comparable to great apes
-- **Memory:** Exceptional recall for locations, faces, and sequences
-- **Social Learning:** Ability to learn through observation and imitation
+- **Pack Hunting:** Natural group coordination when hunting small prey
+- **Scavenging Behavior:** Attraction to cassowary settlements for food scraps
+- **Sensory Capabilities:** Keen eyesight and hearing advantageous for hunting and alerting
+- **Social Structure:** Hierarchical pack organization compatible with cassowary integration
 
 ### **Domestication Process:**
 
-- Initial commensalism around cassowary settlements
-- Selective reinforcement of cooperative behaviors with food rewards
-- Multi-generational breeding programs for enhanced tool manipulation
-- Development of specialized training for symbolic recognition and reproduction
+- Initial scavenging around cassowary settlements for food waste
+- Gradual habituation to cassowary presence over generations
+- Natural selection favoring less fearful individuals
+- Selective breeding for loyalty, trainability, and work capabilities
+- Development of specialized hunting and herding techniques
 
 ### **Uses in Society:**
 
-- **Record Keeping:** Trained to make marks representing quantities and categories
-- **Message Writing:** Use specialized tools to inscribe symbols on bark, clay, or other media
-- **Knowledge Storage:** Maintain and organize information repositories
-- **Administrative Support:** Assist in recording transactions, laws, and census data
+- **Hunting Companions:** Assist in locating and flushing out prey
+- **Guard Animals:** Alert cassowaries to approaching dangers
+- **Pest Control:** Manage rodent populations in settlements and agricultural areas
+- **Herding Assistants:** Help manage domesticated herbivores
 
 ### **Cultural Significance:**
 
-- Revered as symbols of knowledge and memory
-- Featured prominently in educational contexts and scholarly traditions
-- Development of specialized raven-keeper lineages with carefully guarded training techniques
-- Central to the development of proto-writing systems around 15,000 BCE
+- Symbolize loyalty and companionship in cassowary culture
+- Deep emotional bonds formed between cassowaries and their ravens
+- Development of specialized raven-handler techniques passed through generations
+- Featured in stories and artwork as faithful companions and protectors
 
 ---
 
@@ -228,20 +229,20 @@ A unique feature of cassowary civilization is the integration of multiple domest
 
 ### **1. Communication Networks**
 
-- **Components:** Cockatoos, ravens, cassowary messengers
-- **Function:** Multi-modal information transmission combining verbal messages (cockatoos), written records (ravens), and physical transport (cassowaries)
-- **Impact:** Enabled complex governance of territories far larger than would otherwise be possible
+- **Components:** Cockatoos, cassowary messengers
+- **Function:** Information transmission combining verbal messages (cockatoos) and physical transport (cassowaries)
+- **Impact:** Enabled governance of territories larger than would otherwise be possible
 
 ### **2. Agricultural Systems**
 
-- **Components:** Diprotodons, witchetty grubs, honey pot ants
-- **Function:** Diprotodons provide power for irrigation and plowing, while insect species enhance soil fertility and provide supplemental nutrition
+- **Components:** Diprotodons, ravens, witchetty grubs, honey pot ants
+- **Function:** Diprotodons provide power for irrigation and plowing, ravens assist with pest control and hunting, while insect species enhance soil fertility and provide supplemental nutrition
 - **Impact:** Created sustainable agricultural systems supporting larger populations
 
 ### **3. Transportation Infrastructure**
 
 - **Components:** Diprotodons, ravens, cockatoos
-- **Function:** Diprotodons provide motive power, ravens assist with navigation, cockatoos enable communication between vehicles
+- **Function:** Diprotodons provide motive power, ravens serve as guard animals and companions during travel, cockatoos enable communication between vehicles
 - **Impact:** Enabled long-distance trade networks and imperial administration
 
 ---

@@ -38,18 +38,21 @@ This document outlines when and how various species were domesticated throughout
 
 - **Time of Domestication:** ~200,000 BCE
 - **Natural Trait Utilization:**
-  - High intelligence and problem-solving abilities
-  - Capacity for vocal mimicry
-  - Tool use in wild populations
+  - Pack hunting and scavenging behaviors
+  - Sensory capabilities for hunting and alerting
+  - Social structure compatible with cassowary integration
+  - Adaptability to different environments
 - **Domestication Process:**
   - Initially attracted to cassowary settlements by food waste
-  - Selective feeding of more cooperative individuals
-  - Gradual training for specific tasks, beginning with message carrying
-  - Later breeding for enhanced tool manipulation and symbolic recognition
+  - Natural selection favoring less fearful individuals
+  - Gradual habituation to cassowary presence over generations
+  - Selective breeding for loyalty, trainability, and work abilities
+  - Development of specialized hunting and herding techniques
 - **Cultural Impact:**
-  - Became essential for record-keeping and communication
-  - Enabled the development of proto-writing systems (~15,000 BCE)
-  - Fostered inter-village communication networks
+  - Became valuable hunting companions and guard animals
+  - Enabled more efficient pest control around settlements
+  - Fostered inter-species bonding and companionship
+  - Assisted with herding of other domesticated animals
 
 **Cockatoos (Cacatua galerita)**
 
@@ -169,7 +172,7 @@ As species became domesticated, they were integrated into cassowary culture thro
 
 1. **Religious Symbolism**
 
-   - Ravens became associated with wisdom and ancestral knowledge
+   - Ravens became associated with loyalty and protection
    - Diprotodons symbolized strength and endurance
 
 2. **Social Hierarchies**
@@ -180,7 +183,7 @@ As species became domesticated, they were integrated into cassowary culture thro
 3. **Technological Advancement**
 
    - Each newly domesticated species enabled new technologies
-   - Combined use of multiple domesticated species created complex systems (e.g., raven-guided diprotodon transport)
+   - Combined use of multiple domesticated species created complex systems (e.g., raven-assisted hunting and herding)
 
 4. **Artistic Expression**
    - Domesticated species featured prominently in artwork and decoration

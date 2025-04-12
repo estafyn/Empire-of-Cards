@@ -185,7 +185,7 @@
 
 **Technologies:**
 
-- Ravens are domesticated as messengers, using tools to carve symbols onto bark.
+- Ravens are domesticated as hunting companions and loyal protectors.
 - Proto-writing systems emerge to track trade, agreements, and oral histories.
 
 **Cultures:**
@@ -273,7 +273,7 @@ Widespread steel usage for agricultural tools, transport tracks, and defense sys
 
 Cable-pulled ships replace sails, using Diprotodon treadmills to power maritime trade routes.
 
-Standardized accounting and proto-currency systems are tracked by raven record-keepers who document transactions on bark ledgers.
+Standardized accounting and proto-currency systems are maintained by trained cockatoos who memorize and recite transaction details.
 
 Cultures:
 
