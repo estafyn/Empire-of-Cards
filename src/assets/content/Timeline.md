@@ -95,10 +95,6 @@
 - Social instincts begin to evolve, favoring cooperation within small groups.
 - Forelimb adaptations become fully integrated into daily activities.
 
-**Split from the Human Timeline:**
-
-- Humans remain ground-based hunters and foragers in Africa. Cassowaries develop early cooperative farming behaviors with their evolved forelimbs.
-
 ---
 
 ### **4\. The Age of Fire**
