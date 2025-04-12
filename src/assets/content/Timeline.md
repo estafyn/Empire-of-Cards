@@ -2,8 +2,8 @@
 
 ## **1\. Ratite Ancestors Arrive in Sahul**
 
-**Human Time:** \~30 million years ago  
- **Cassowary Time:** \~30 million years ago
+**Human Time:** ~30 million years ago  
+ **Cassowary Time:** ~30 million years ago
 
 **Environment:**
 
@@ -21,7 +21,7 @@
 
 **Biological Changes:**
 
-- The ancestors of cassowaries adapt to Sahul’s environment, evolving long legs for running and small wings for balance.
+- The ancestors of cassowaries adapt to Sahul's environment, evolving long legs for running and small wings for balance.
 - Diet shifts toward omnivory, with early cassowaries supplementing fruit with insects.
 
 **Split from the Human Timeline:**
@@ -30,64 +30,74 @@
 
 ---
 
-### **2\. Arboreal Cassowary Era**
+### **2\. The Arms Race: Forelimb Evolution**
 
-**Human Time:** \~15 million years ago  
- **Cassowary Time:** \~15 million years ago
+**Human Time:** ~12-6 million years ago  
+ **Cassowary Time:** ~12-6 million years ago
 
 **Environment:**
 
-- Rainforests dominate northern Australia (modern **Daintree Rainforest** region) and extend into **Arnhem Land** and **Papua New Guinea**.
-- Coastal areas are dense with mangroves, while the southern regions (modern **Victoria** and **Tasmania**) are temperate rainforests.
+- Forests become fragmented and vertically layered.
+- Emergence of advanced predators (thylacines and arboreal marsupial lions) creates new selective pressures.
+- Northern Australia (modern **Daintree Rainforest** region) and **Papua New Guinea** remain densely forested.
 
 **Technologies:**
 
-- None. Proto-cassowaries rely solely on biological adaptations for foraging and survival.
+- Early tool use emerges, including using sticks and stones to access food (insects, honey, nuts).
+- Basic nest-building using leaves and bark.
 
 **Cultures:**
 
-- Rudimentary vocalizations emerge as warning calls for territory defense. Proto-cassowaries are solitary, territorial, and do not cooperate socially.
+- Development of coordinated mob defense against predators.
+- Social learning emerges as juveniles learn by watching experienced adults.
+- Rudimentary vocalizations develop for territory defense and predator warnings.
 
 **Biological Changes:**
 
-- Small claws develop at the end of their wing stubs to assist with climbing.
-- Diet shifts to include more insects (beetles, ants) and high-canopy fruit.
+- Juvenile climbing claws develop and persist into adulthood (neoteny).
+- Partial ossification of wrist joints and enhanced forelimb muscle strength.
+- Three-digit manus with curved, keratinized claws becomes stable feature.
+- Increased shoulder mobility for climbing and object manipulation.
+- Rebalanced center of gravity for bipedal movement.
 
 **Split from the Human Timeline:**
 
-- In the cassowary world, cassowaries become semi-arboreal foragers with small social interactions. In the human timeline, mammals (especially early primates) continue as ground-based species adapting to savannas.
+- In the cassowary world, forelimb evolution enables new survival strategies. In the human timeline, mammals continue as ground-based species adapting to savannas.
 
 ---
 
 ### **3\. The Age of Insect Farming**
 
-**Human Time:** \~2 million years ago  
- **Cassowary Time:** \~2 million years ago
+**Human Time:** ~2 million years ago  
+ **Cassowary Time:** ~2 million years ago
 
 **Environment:**
 
 - Northern Australia (**Cape York**, **Kakadu**, and **Arnhem Land**) remains densely forested and humid.
-- Central Australia is semi-arid but retains patches of wetland. Papua New Guinea’s mountain regions are humid and fertile.
+- Central Australia is semi-arid but retains patches of wetland. Papua New Guinea's mountain regions are humid and fertile.
 - Large fruiting trees and decaying plant matter support rich insect populations.
 
 **Technologies:**
 
-- Basic nest-building using leaves, bark, and decaying fruit to attract witchetty grubs, ants, and beetles.
-- Cassowaries learn to **cultivate specific decaying materials** to optimize insect farming.
+- Advanced nest-building using leaves, bark, and decaying fruit to attract witchetty grubs, ants, and beetles.
+- Cassowaries use their evolved forelimbs to **cultivate specific decaying materials** to optimize insect farming.
+- More sophisticated tool use for accessing and processing food.
 
 **Cultures:**
 
 - The first social units form around insect farms—groups of four specializing in different roles: Farmer, Hunter, Child Rearer, and Connector.
 - Groups remain small and territorial but begin cooperating within family units.
+- Enhanced social learning and tool use transmission between generations.
 
 **Biological Changes:**
 
 - Improved cognitive abilities due to a high-protein insect diet.
 - Social instincts begin to evolve, favoring cooperation within small groups.
+- Forelimb adaptations become fully integrated into daily activities.
 
 **Split from the Human Timeline:**
 
-- Humans remain ground-based hunters and foragers in Africa. Cassowaries develop early cooperative farming behaviors.
+- Humans remain ground-based hunters and foragers in Africa. Cassowaries develop early cooperative farming behaviors with their evolved forelimbs.
 
 ---
 
@@ -247,7 +257,7 @@ Cassowary Time: \~Year \-68,000
 
 Environment:
 
-Northern Australia’s rainforests remain rich, though they’ve receded from earlier borders.
+Northern Australia's rainforests remain rich, though they've receded from earlier borders.
 
 Coastal regions flourish due to wetland expansion, but the central plains grow harsher and more isolated.
 
@@ -263,7 +273,7 @@ Domestication of cockatoos for voice-based messages between courts, reinforcing 
 
 Cultures:
 
-Queenship Rises: Female leaders, often from Connector lineages, become key figures of governance, diplomacy, and ritual. Known as “Flame Bearers,” they are both political rulers and symbolic keepers of their hearths.
+Queenship Rises: Female leaders, often from Connector lineages, become key figures of governance, diplomacy, and ritual. Known as "Flame Bearers," they are both political rulers and symbolic keepers of their hearths.
 
 Ritual Fire Diplomacy: Political negotiations often involve elaborate fire-lighting ceremonies and symbolic exchanges of embers.
 
@@ -277,7 +287,7 @@ Vocalization patterns evolve into complex calls used during royal announcements 
 
 Split from the Human Timeline:
 
-Human civilizations in Mesopotamia and Egypt consolidate under kings and emperors. Cassowaries, by contrast, evolve matriarchal dynasties where female rulers negotiate through ritualized “fire treaties” rather than direct warfare.
+Human civilizations in Mesopotamia and Egypt consolidate under kings and emperors. Cassowaries, by contrast, evolve matriarchal dynasties where female rulers negotiate through ritualized "fire treaties" rather than direct warfare.
 
 \---
 
@@ -307,7 +317,7 @@ Cultures:
 
 Corporate Clans: Massive trading companies form, rivaling governments in influence and power. They organize their territories through contracts, debt systems, and ownership stakes in insect farms and trade routes.
 
-Debt-Based Society: Laborers can buy shares to increase their status but risk losing everything if quotas aren’t met. This leads to the rise of “partially owned citizens”—those bound by debt but still retaining partial rights.
+Debt-Based Society: Laborers can buy shares to increase their status but risk losing everything if quotas aren't met. This leads to the rise of "partially owned citizens"—those bound by debt but still retaining partial rights.
 
 Cultural festivals shift from communal celebrations of fire to celebrations of corporate achievements, such as new trade route openings or record harvests.
 
