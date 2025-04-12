@@ -4,7 +4,7 @@ This document explores how the discovery, mastery, and cultural integration of f
 
 ---
 
-## The Discovery Phase (~1,200,000 - 1,000,000 BCE)
+## The Discovery Phase (~1,200,000 – 1,000,000 BCE)
 
 ### Initial Encounters with Natural Fire
 
@@ -32,7 +32,7 @@ This document explores how the discovery, mastery, and cultural integration of f
 
 ---
 
-## The Hearth Revolution (~1,000,000 - 800,000 BCE)
+## The Hearth Revolution (~1,000,000 – 800,000 BCE)
 
 ### Reproductive Revolution: Hearth Incubation
 
@@ -68,7 +68,7 @@ This document explores how the discovery, mastery, and cultural integration of f
 
 ---
 
-## Technical Innovations (~800,000 - 500,000 BCE)
+## Technical Innovations (~800,000 – 500,000 BCE)
 
 ### Fire Production Technologies
 
@@ -98,7 +98,7 @@ This document explores how the discovery, mastery, and cultural integration of f
 
 ---
 
-## Cooking and Diet Revolution (~500,000 - 300,000 BCE)
+## Cooking and Diet Revolution (~500,000 – 300,000 BCE)
 
 ### Nutritional Impact
 
@@ -135,7 +135,7 @@ This document explores how the discovery, mastery, and cultural integration of f
 
 ---
 
-## Fire and Tool Evolution (~300,000 - 100,000 BCE)
+## Fire and Tool Evolution (~300,000 – 100,000 BCE)
 
 ### Heat-Modified Materials
 
@@ -161,7 +161,7 @@ This document explores how the discovery, mastery, and cultural integration of f
 
 ---
 
-## Cultural and Cognitive Acceleration (~100,000 - 50,000 BCE)
+## Cultural and Cognitive Acceleration (~100,000 – 80,000 BCE)
 
 ### Extended Learning Period
 
@@ -217,15 +217,10 @@ The key difference in the cassowary timeline is the innovative use of fire for e
 The cassowary relationship with fire created a powerful feedback loop driving their evolution toward civilization:
 
 1. **Initial Control of Fire** → Enhanced predator protection and opportunistic cooking
-
 2. **Hearth Incubation** → Larger brain capacity and extended development periods
-
 3. **Enhanced Cognition** → Better fire control and cooking technology
-
 4. **Improved Nutrition** → Further support for neural development
-
 5. **Social Complexity** → Division of labor and knowledge specialization
-
 6. **Material Technology** → Creation of tools enhancing further capabilities
 
 This self-reinforcing cycle of biological and cultural co-evolution, catalyzed by the unique innovation of hearth incubation, explains how cassowaries could evolve from relatively simple ratites to a sophisticated technological species with complex society.
