@@ -2,28 +2,36 @@
 
 **Note on Dating:** This timeline uses BCE (Before Common Era) dates for consistency and clarity. While cassowary evolution and human evolution occurred on different timescales, we use human BCE dates as a reference point to help readers understand the relative progression of events. The actual cassowary timeline would be significantly longer, but this dating system helps maintain narrative coherence.
 
-## **1\. Ratite Ancestors Arrive in Sahul**
+## **1\. The Cassowary-Emu Divergence**
 
-**Date:** ~30,000,000 BCE
+**Date:** ~25,000,000 BCE (Late Oligocene)
 
 **Environment:**
 
-- Australia (Sahul) is lush and tropical, dominated by vast rainforests stretching from modern-day **Cape York Peninsula** in the north down through **Queensland's coast**.
-- Antarctica, still partially forested, allows avian species to migrate as it drifts southward.
-- Papua New Guinea is connected to northern Australia by land bridges, forming a massive continental landmass.
+- Australia was significantly wetter and more forested than today, with rainforests covering much of the northern continent.
+- The Oligocene climate was cooling globally, but Australia retained extensive subtropical and tropical forests.
+- Australia had separated from Antarctica ~45 million years earlier but remained closer to Antarctica than today.
+- Papua New Guinea was connected to northern Australia by land bridges, forming part of the ancient Sahul landmass.
 
-**Technologies:**
+**Evolutionary Significance:**
 
-- None. This period marks biological adaptation rather than technological advancement.
+- Cassowaries and emus diverged from a common ancestor approximately 25-30 million years ago.
+- The key fossil species _Emuarius gidju_ (24-15 million years ago) represents an intermediate form between cassowaries and emus.
+- Modern genetic and fossil evidence confirms that cassowaries and emus form a distinct clade (Casuariidae) within the ratite family tree.
 
-**Cultures:**
+**Ecological Specialization:**
 
-- None. These ratites are solitary, territorial, and have no social structure.
+- Early divergence was driven by habitat specialization rather than geographic isolation.
+- Proto-cassowaries specialized in dense rainforest environments of northern Australia and New Guinea.
+- Proto-emus began adapting to more open woodlands that were expanding in central and southern Australia.
+- _Emuarius_ had smaller eyes and less developed running ability than modern emus, suggesting it was adapted to denser vegetation like modern cassowaries.
 
-**Biological Changes:**
+**Physical Adaptations:**
 
-- The ancestors of cassowaries adapt to Sahul's environment, evolving long legs for running and small wings for balance.
-- Diet shifts toward omnivory, with early cassowaries supplementing fruit with insects.
+- Both lineages retained vestigial wings but were fully flightless, having lost the keeled sternum needed for flight muscles.
+- _Emuarius_ exhibits a mix of cursorial adaptations (like emus) and forest adaptations (like cassowaries).
+- The three-toed foot structure was already established in both lineages.
+- The distinctive cassowary casque and vivid neck coloration would develop later as the rainforest lineage further specialized.
 
 ---
 
