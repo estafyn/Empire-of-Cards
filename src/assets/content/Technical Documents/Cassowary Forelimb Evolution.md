@@ -27,7 +27,7 @@ This document details the evolutionary process through which cassowaries develop
 
 - **Predator Pressure:**
 
-  - Fragmentation of forests created edge habitats where predators like thylacines and marsupial lions could more easily ambush ground-dwelling birds
+  - Fragmentation of forests created edge habitats where predators like thylacines and marsupial lions could more easily ambush ground-dwelling birds, particularly targeting chicks
   - Vertical escape routes became increasingly valuable for survival
 
 - **Juvenile Adaptations Retained:**
@@ -39,7 +39,11 @@ This document details the evolutionary process through which cassowaries develop
     - Keratinized claw development at digit tips
     - Enhanced gripping strength through muscle development
 
-- **Anatomical Changes:**
+- **Anatomical and Behavioral Progression:**
+  - **~12 Million BCE:** Climbing claws in juveniles emerge with early wrist ossification
+  - **~10 Million BCE:** Subadult mobility and object grasping develop; reduced feather coverage on forelimbs
+  - **~8 Million BCE:** Adult forelimb retention and object manipulation of leaves, bark, and sticks
+  - **~6 Million BCE:** Emergence of tool use including probing insect mounds, using stones for nut cracking, and carrying fire embers
   - Partial ossification of wrist joints allowing better articulation
   - Enhanced forelimb musculature, particularly the equivalent of the biceps and digital flexors
   - Three-digit manus with curved, keratinized claws became a stable feature

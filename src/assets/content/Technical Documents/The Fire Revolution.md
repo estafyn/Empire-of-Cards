@@ -4,12 +4,12 @@ This document explores how the discovery, mastery, and cultural integration of f
 
 ---
 
-## The Discovery Phase (~1,200,000 – 1,000,000 BCE)
+## The Discovery Phase (~6,000,000 – 1,000,000 BCE)
 
 ### Initial Encounters with Natural Fire
 
 - **Sources of Exposure:**
-  - Lightning strikes in the increasingly dry Late Miocene/Early Pleistocene environment
+  - Lightning strikes in increasingly dry Late Miocene/Early Pleistocene environments
   - Volcanic activity in the northern regions near Papua New Guinea
   - Spontaneous combustion in peat bogs and coal seams
 - **Early Behaviors Around Fire:**
@@ -24,7 +24,8 @@ This document explores how the discovery, mastery, and cultural integration of f
   - Cassowaries learn to follow smoke to find recently burned areas
   - Recognition that certain foods become more accessible or palatable after fire exposure
   - Development of "post-fire foraging" as a specialized behavior
-- **Proto-Maintenance Phase:**
+- **Proto-Maintenance Phase (~6 Million BCE):**
+  - Introduction of fire-carried embers into nesting sites for predator protection
   - Gradual recognition that certain materials burn longer
   - Early attempts to maintain naturally occurring fires through fuel addition
   - Development of basic fuel selection behaviors

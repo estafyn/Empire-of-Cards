@@ -41,28 +41,32 @@
 
 **Environment:**
 
-- Forests become fragmented and vertically layered.
-- Emergence of advanced predators (thylacines and arboreal marsupial lions) creates new selective pressures.
+- Forests become fragmented and vertically layered, creating stratified micro-ecologies.
+- Emergence of advanced predators (thylacines, arboreal marsupial lions) creates new selective pressures, particularly targeting chicks and juveniles.
 - Northern Australia (modern **Daintree Rainforest** region) and **Papua New Guinea** remain densely forested.
 
 **Technologies:**
 
-- Early tool use emerges, including using sticks and stones to access food (insects, honey, nuts).
-- Basic nest-building using leaves and bark.
+- Progressive evolution of tool use from ~8-6 million BCE:
+  - Manipulation of leaves, bark, and sticks to access food (insects, honey, nuts).
+  - Use of sticks to probe insect mounds and ant nests.
+  - Placement of stones to crack nuts or distract small predators.
+  - Introduction of fire-carried embers into nesting sites (emerging ~6 million BCE).
 
 **Cultures:**
 
 - Development of coordinated mob defense against predators.
-- Social learning emerges as juveniles learn by watching experienced adults.
-- Rudimentary vocalizations develop for territory defense and predator warnings.
+- Social learning emerges as juveniles observe experienced tool-users.
+- Localized, context-specific tool use suggesting proto-cultural differentiation.
+- Juvenile trackways found parallel to adult tool caches, indicating intergenerational learning.
 
 **Biological Changes:**
 
-- Juvenile climbing claws develop and persist into adulthood (neoteny).
-- Partial ossification of wrist joints and enhanced forelimb muscle strength.
-- Three-digit manus with curved, keratinized claws becomes stable feature.
-- Increased shoulder mobility for climbing and object manipulation.
-- Rebalanced center of gravity for bipedal movement.
+- ~12 Million BCE: Juvenile climbing claws develop and persist into adulthood (neoteny).
+- ~10 Million BCE: Increased shoulder mobility; reduced feather coverage on forelimbs.
+- ~8 Million BCE: Three-digit manus with curved, keratinized claws becomes stable feature.
+- Improved grasping and manipulation capabilities for environmental exploration.
+- Rebalanced center of gravity for bipedal movement with functional forelimbs.
 
 ---
 
@@ -98,7 +102,7 @@
 
 ### **4\. The Age of Fire**
 
-**Date:** ~1,000,000 BCE
+**Date:** ~6,000,000 - 1,000,000 BCE
 
 **Environment:**
 
@@ -107,16 +111,21 @@
 
 **Technologies:**
 
-- Fire management begins—cassowaries learn to maintain small fires from natural wildfires.
-- Hearth incubation increases survival rates, leading to longer hatching times and larger brains.
+- Initial fire use emerges ~6 million BCE with fire-carried embers in nesting sites.
+- Progressive development of fire management from opportunistic use to deliberate maintenance.
+- By ~1 million BCE: Advanced hearth incubation increases survival rates, leading to longer hatching times and larger brains.
 
 **Cultures:**
 
-- Hearths become central to nests, symbolizing the birth of permanent "homes."
+- Early fire use primarily focused on predator deterrence and opportunistic cooking.
+- Fire becomes increasingly integrated with nest building and protection.
+- By late period, hearths become central to nests, symbolizing the birth of permanent "homes."
 - Nest groups develop **rituals** around fire maintenance and feeding the hearth.
 
 **Biological Changes:**
 
+- Forelimb adaptations accelerate with fire manipulation demands.
+- Later period (~3-1.5 million BCE): Cask and brain expansion to house additional neural tissue.
 - Shorter necks evolve to balance larger heads.
 - Stronger pelvic muscles and longer legs improve upright posture, enabling cassowaries to tend their fires.
 
