@@ -138,6 +138,35 @@ This document details the evolutionary process through which cassowaries develop
 
 ---
 
+## Cognitive-Emotional Co-Evolution
+
+### Anticipatory Anxiety and Manual Dexterity
+
+- The development of functional forelimbs coincided with the emergence of anticipatory anxiety traits
+- Both evolved in response to the same predator pressures in the fragmented forests of Miocene Sahul
+- This correlation represents an integrated adaptive response rather than separate evolutionary paths
+
+### Mutual Reinforcement Mechanisms
+
+- **Behavioral Feedback Loop:**
+
+  - Increased manual dexterity enabled more effective predator avoidance behaviors
+  - Heightened anxiety motivated more sophisticated tool use for protection
+  - This reciprocal relationship accelerated both anatomical and emotional adaptations
+
+- **Neural Resource Allocation:**
+  - Brain regions responsible for fine motor control overlapped with threat assessment areas
+  - Enhanced proprioception (awareness of limb position) supported both tool use and vigilance
+  - Increased cask size accommodated neural tissue for both functions
+
+### Evolutionary Evidence
+
+- Fossil specimens with developed forelimbs show enlarged brain cavities consistent with expanded threat processing
+- Juveniles in fossil records with better-developed forelimbs exhibit nesting patterns suggesting heightened group vigilance
+- Tool caches found near predator-rich environments indicate anxiety-motivated preventative strategies
+
+---
+
 ## Fire: The Catalyst for Accelerated Evolution
 
 - The discovery and control of fire (around 1 million BCE in this timeline) became a pivotal selective pressure

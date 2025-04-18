@@ -59,14 +59,18 @@
 - Social learning emerges as juveniles observe experienced tool-users.
 - Localized, context-specific tool use suggesting proto-cultural differentiation.
 - Juvenile trackways found parallel to adult tool caches, indicating intergenerational learning.
+- Emergence of anticipatory anxiety as an adaptive trait, manifesting in preventative behaviors and tool caching.
+- First evidence of "worry stones" – small, smoothed rocks with repetitive handling patterns found near nests.
 
 **Biological Changes:**
 
 - ~12 Million BCE: Juvenile climbing claws develop and persist into adulthood (neoteny).
 - ~10 Million BCE: Increased shoulder mobility; reduced feather coverage on forelimbs.
 - ~8 Million BCE: Three-digit manus with curved, keratinized claws becomes stable feature.
+- ~8-7 Million BCE: Co-evolution of heightened vigilance mechanisms and threat processing neural pathways.
 - Improved grasping and manipulation capabilities for environmental exploration.
 - Rebalanced center of gravity for bipedal movement with functional forelimbs.
+- Development of epigenetic transmission of anxiety responses through DNA regulatory changes.
 
 ---
 
@@ -121,11 +125,14 @@
 - Fire becomes increasingly integrated with nest building and protection.
 - By late period, hearths become central to nests, symbolizing the birth of permanent "homes."
 - Nest groups develop **rituals** around fire maintenance and feeding the hearth.
+- Emergence of anxiety-regulation rituals using fire as a focal point for communal threat processing.
+- Development of "anxiety inoculation" practices where juveniles are gradually exposed to controlled threats.
 
 **Biological Changes:**
 
 - Forelimb adaptations accelerate with fire manipulation demands.
 - Later period (~3-1.5 million BCE): Cask and brain expansion to house additional neural tissue.
+- Enhanced brain regions for both threat assessment and complex tool use co-evolve.
 - Shorter necks evolve to balance larger heads.
 - Stronger pelvic muscles and longer legs improve upright posture, enabling cassowaries to tend their fires.
 

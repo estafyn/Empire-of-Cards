@@ -65,6 +65,25 @@ The analysis is framed within the context of a scientifically structured museum 
 - Fossilized juvenile trackways found in parallel with adult tool caches suggest intergenerational learning.
 - Tool use became **localized** and **context-specific**, hinting at proto-cultural differentiation.
 
+### Anxiety as an Evolutionary Driver
+
+- **Anticipatory Vigilance:**
+
+  - Heightened anxiety states created selective pressure for preventative problem-solving.
+  - Tool use emerged partially as anxiety-reducing behavior (security objects, defensive implements).
+  - "Worry stones" and cached defensive tools found at nest sites suggest anxiety-motivated preparation.
+
+- **Epigenetic Reinforcement:**
+
+  - Predator-induced stress during early development left chemical marks on DNA regulatory regions.
+  - These epigenetic changes affected both anxiety responses and motor control development.
+  - Juveniles from high-stress environments showed accelerated tool use acquisition in subsequent generations.
+
+- **Mutual Reinforcement:**
+  - Tool use success reduced immediate anxiety, creating positive behavioral feedback.
+  - Successful tool users gained social status, influencing mate selection (sexual selection).
+  - This created multi-level selection pressure favoring both tool use proficiency and adaptive anxiety.
+
 ---
 
 ## 3. Anatomical Correlates to Tool Use
