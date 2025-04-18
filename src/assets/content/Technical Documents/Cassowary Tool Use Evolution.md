@@ -6,7 +6,7 @@
 
 ## Summary
 
-This document outlines the emergence and development of tool use in cassowary ancestors during the late Miocene and Pliocene epochs. It focuses on fossil evidence, behavioral implications, anatomical adaptations, and ecological drivers that supported the shift from purely biological adaptations (climbing, claws) toward the manipulation of external objects (sticks, stones, fire tools).
+This document outlines the emergence and development of tool use in cassowary ancestors during the late Miocene and Pliocene epochs. It focuses on fossil evidence, behavioral implications, anatomical adaptations, and ecological drivers that supported the shift from purely biological adaptations (climbing, claws) toward the manipulation of external objects (sticks, stones, fire tools). For a complete chronology of cassowary development, see the [Timeline](../Timeline.md).
 
 The analysis is framed within the context of a scientifically structured museum exhibit developed by cassowary descendants. This museum, originally constructed by the Werribee Traders Association (WTA) during a period of colonial and extractive dominance, now functions as a liberal, evidence-based educational institution located in Narm (modern-day Melbourne). The story of cassowary tool use is one of deep evolutionary contingency, not destiny—driven by predator pressure, environmental complexity, and the unexpected utility of the clawed forelimb.
 

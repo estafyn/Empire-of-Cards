@@ -1,6 +1,6 @@
 # The Fire Revolution: Catalyst for Cassowary Civilization
 
-This document explores how the discovery, mastery, and cultural integration of fire became the pivotal catalyst for cassowary civilization, accelerating biological and social development in ways that parallel (and in this timeline, precede) human evolution.
+This document explores how the discovery, mastery, and cultural integration of fire became the pivotal catalyst for cassowary civilization, accelerating biological and social development in ways that parallel (and in this timeline, precede) human evolution. For a complete chronology of cassowary development, see the [Timeline](../Timeline.md).
 
 ---
 

@@ -1,6 +1,6 @@
 # Main Storyline Outline
 
-Below is a detailed outline of the key events and beats in the main storyline set in the advanced cassowary civilization of 80,000 BCE. It's broken into chapters for clarity, highlighting major plot points, NPC interactions, and the transition from free debt-ridden gambler to enslaved convict.
+Below is a detailed outline of the key events and beats in the main storyline set in the advanced cassowary civilization during the Age of Companies (~140,000 BCE, equivalent to the Victorian/industrial 1700s CE era in cassowary development). It's broken into chapters for clarity, highlighting major plot points, NPC interactions, and the transition from free debt-ridden gambler to enslaved convict.
 
 ---
 
@@ -8,7 +8,7 @@ Below is a detailed outline of the key events and beats in the main storyline se
 
 ### 1\. Arrival at the Casino
 
-- The player, currently burdened by a significant debt, enters the grand casino in Werribee (the capital city of the cassowary empire, circa 80,000 BCE).
+- The player, currently burdened by a significant debt, enters the grand casino in Werribee (the capital city of the cassowary empire, circa 140,000 BCE, during the Age of Companies).
 - **Narrative Introduction**:
   - Werribee is a bustling metropolis of Cassowaries, with the Werribee Traders Association (WTA) logos prominently displayed.
   - The environment is vibrant yet oppressive, showcasing the advanced technological state of this ancient civilization.
@@ -28,7 +28,7 @@ Below is a detailed outline of the key events and beats in the main storyline se
 
 - The casino announces a high-stakes card tournament.
 - **Gameplay**:
-  - Play multiple rounds; better performance unlocks more lore about the WTA and early cassowary civilization.
+  - Play multiple rounds; better performance unlocks more lore about the WTA and cassowary civilization.
   - Default outcome: eventual loss, with partial victories unlocking small branches or bonuses.
 
 ### 4\. Confrontation After the Tournament
@@ -55,7 +55,7 @@ Below is a detailed outline of the key events and beats in the main storyline se
 
 ### 2\. Boarding the Transport Train
 
-- The player and other convicts board a diprotodon-powered train for a journey across the Sahul supercontinent of 80,000 BCE.
+- The player and other convicts board a diprotodon-powered train for a journey across the Sahul supercontinent of 140,000 BCE.
 
 ### 3\. Life Aboard the Train
 
@@ -77,7 +77,7 @@ Below is a detailed outline of the key events and beats in the main storyline se
 - **Optional Side Scenes**:
   - A failed revolt shows WTA brutality.
   - Conversations reveal empire expansion, corporate conquests, or fellow slaves' backstories.
-  - Glimpses of the diverse ecosystems of 80,000 BCE Sahul through train windows.
+  - Glimpses of the diverse ecosystems of 140,000 BCE Sahul through train windows.
 
 ### 6\. Arrival at the Penal Colony
 
@@ -108,13 +108,13 @@ Below is a detailed outline of the key events and beats in the main storyline se
 
 - **Fellow Convicts**: Range from escape planners to survivalists.
 - **Corporate Hierarchy**: Some foremen are partially-owned citizens enforcing harsh rules.
-- **Environmental Context**: Mining operations in the ancient Australian landscape of 80,000 BCE, with glimpses of megafauna and pristine wilderness.
+- **Environmental Context**: Mining operations in the ancient Australian landscape of 140,000 BCE, with glimpses of megafauna and pristine wilderness.
 
 ### 4\. Possible Paths
 
 - **Path A: Work the System**: Earn privileges and buy back shares from the WTA.
 - **Path B: Resist/Rebel**: Sabotage equipment, rally slaves, and plan uprisings against corporate control.
-- **Path C: Escape & Flee**: Risky freedom attempt through the wilds of 80,000 BCE Australia.
+- **Path C: Escape & Flee**: Risky freedom attempt through the wilds of 140,000 BCE Australia.
 
 ### 5\. Climactic Confrontation or Resolution
 
@@ -122,7 +122,7 @@ Below is a detailed outline of the key events and beats in the main storyline se
   - Negotiate partial freedom within WTA society.
   - Stage a successful uprising against the mining operation.
   - Succumb to corporate exploitation.
-- **Epilogues**: Reflect on chosen path—return to Werribee or forge a new life in the 80,000 BCE world.
+- **Epilogues**: Reflect on chosen path—return to Werribee or forge a new life in the 140,000 BCE world.
 
 ---
 
@@ -135,16 +135,16 @@ Below is a detailed outline of the key events and beats in the main storyline se
 
 ### 2\. Historical Context & Cultural Elements
 
-- The game takes place during the height of cassowary civilization (80,000 BCE) when technology and social structures were highly advanced.
-- References to the rapid development of this civilization from 90,000-80,000 BCE appear in background lore.
+- The game takes place during the Age of Companies (as described in the [Timeline](./Timeline.md)), when cassowary civilization resembled human Victorian/industrial era but occurred around 140,000 BCE.
+- References to the historical development of this civilization appear in background lore.
 
 ### 3\. Technological Elements
 
 - The story showcases cassowary technological innovations including:
   - Diprotodon-powered transport systems
   - Cockatoo message networks
-  - Early metallurgy and corporate record-keeping
-  - All framed within the scientifically plausible 90,000-80,000 BCE setting
+  - Metallurgy and corporate record-keeping
+  - All framed within the cassowary civilization's equivalent of Victorian-era technology
 
 ### 4\. Replay Incentive
 
@@ -157,4 +157,6 @@ Below is a detailed outline of the key events and beats in the main storyline se
 
 ## **Conclusion**
 
-This detailed outline ensures a logical progression from Werribee's glitzy casino to the harrowing debt ultimatum, the soul-crushing train ride, and the penal colony gold rush scenario, all set within the scientifically grounded 80,000 BCE cassowary civilization. At each stage, moral and strategic choices determine whether the player complies, negotiates, or rebels—rooted in an emotional narrative against the backdrop of the oppressive Werribee Traders Association empire.
+This detailed outline ensures a logical progression from Werribee's glitzy casino to the harrowing debt ultimatum, the soul-crushing train ride, and the penal colony gold rush scenario, all set within the Age of Companies era of cassowary civilization (~140,000 BCE). At each stage, moral and strategic choices determine whether the player complies, negotiates, or rebels—rooted in an emotional narrative against the backdrop of the oppressive Werribee Traders Association empire.
+
+_For more details on the historical development of cassowary civilization, see the [Timeline](./Timeline.md) document._

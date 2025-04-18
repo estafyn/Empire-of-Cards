@@ -178,6 +178,7 @@
 
 - Symbolic markings and territorial markers to convey information.
 - Simple woven barriers for protecting farms and nests.
+- Ravens, domesticated around 200,000 BCE, continue to serve as hunting companions and protectors.
 
 **Cultures:**
 
@@ -201,8 +202,8 @@
 
 **Technologies:**
 
-- Ravens are domesticated as hunting companions and loyal protectors.
 - Proto-writing systems emerge to track trade, agreements, and oral histories.
+- Cockatoos are used as messengers and for verbal communication.
 
 **Cultures:**
 
@@ -273,7 +274,7 @@ Vocalization patterns evolve into complex calls used during royal announcements 
 
 10\. The Age of Companies
 
-**Date:** ~1700s CE (early industrial age)
+**Date:** ~140,000 BCE (equivalent to early industrial/Victorian era in cultural development)
 
 **Environment:**
 

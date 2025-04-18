@@ -1,6 +1,6 @@
 # Species Domestication Timeline
 
-This document outlines when and how various species were domesticated throughout cassowary civilization's development between 90,000-80,000 BCE, connecting their evolutionary advantages to specific cultural needs.
+This document outlines when and how various species were domesticated throughout cassowary civilization's development, connecting their evolutionary advantages to specific cultural needs. For a complete chronology of cassowary development, see the [Timeline](../Timeline.md).
 
 ---
 
@@ -36,7 +36,7 @@ This document outlines when and how various species were domesticated throughout
 
 **Ravens (Corvus coronoides)**
 
-- **Time of Domestication:** ~87,000 BCE
+- **Time of Domestication:** ~200,000 BCE
 - **Natural Trait Utilization:**
   - Pack hunting and scavenging behaviors
   - Sensory capabilities for hunting and alerting

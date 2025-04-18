@@ -43,7 +43,7 @@ This document outlines the key domesticated species in cassowary civilization, f
 
 **Species:** _Corvus coronoides_ (Australian Raven)
 
-**Time of Domestication:** ~200,000 BCE (Mid-Period)
+**Time of Domestication:** 200,000 BCE
 
 ### **Natural Traits Utilized:**
 
