@@ -2,6 +2,13 @@
 
 This document outlines the key domesticated species in cassowary civilization, focusing on their biological characteristics, domestication process, and roles in society. For a detailed chronology of domestication, see the [Species Domestication Timeline](./Species%20Domestication%20Timeline.md).
 
+## Related Documents
+
+- [Species Domestication Timeline](./Species%20Domestication%20Timeline.md) - Chronological history of domestication events
+- [The Diprotodon Powered Transport System](./The%20Diprotodon%20Powered%20Transport%20System.md) - Detailed analysis of diprotodon applications
+- [The Fire Revolution](./The%20Fire%20Revolution.md) - How domesticated species interacted with fire technologies
+- [Cassowary Tool Use Evolution](./Cassowary%20Tool%20Use%20Evolution.md) - Evolution of manipulative abilities that enabled domestication
+
 ---
 
 ## **1. Cockatoos: The Living Voice Notes**
@@ -220,6 +227,46 @@ For more details on diprotodon domestication and applications, see [The Diprotod
 - Associated with water cycles and renewal in spiritual practices
 - Development of specialized eel-farming techniques passed through family lineages
 - Enabled permanent settlements in wetland environments
+
+---
+
+## **7. Wallabies: The Managed Game**
+
+**Species:** _Macropus agilis_ (Agile Wallaby)
+
+**Time of Domestication:** ~84,000 BCE (Late Period)
+
+### **Natural Traits Utilized:**
+
+- **Adaptability:** Ability to thrive in various environments from forests to grasslands
+- **Efficient Water Usage:** Evolved for survival in semi-arid conditions
+- **Reproductive Efficiency:** High breeding rate allowing sustainable population management
+- **Manageable Size:** Large enough to provide substantial meat but small enough to handle
+
+### **Domestication Process:**
+
+- **Habitat Management:**
+  - Creation of specialized grazing areas through controlled burning
+  - Development of water points to concentrate populations in desired regions
+  - Establishment of shelter spaces to protect from predators and weather
+- **Semi-domestication Approach:**
+  - Unlike fully domesticated species, wallabies remained semi-wild
+  - Managed herds through strategic culling rather than controlled breeding
+  - Minimalist intervention allowing natural behaviors to continue
+
+### **Uses in Society:**
+
+- **Meat Source:** Primary protein source for cassowary communities in arid regions
+- **Hide Production:** Skin and fur used for clothing, containers, and decorative items
+- **Territory Extension:** Their management allowed cassowaries to establish settlements in drier environments
+- **Ecosystem Management:** Wallaby grazing patterns used to maintain desired vegetation
+
+### **Cultural Significance:**
+
+- Represented a different relationship with nature than full domestication
+- Associated with adaptability and resilience in cassowary culture
+- Development of specialized hunting rituals and sustainable harvest practices
+- Enabled expansion into territories that couldn't support intensive agriculture
 
 ---
 

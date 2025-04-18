@@ -2,6 +2,12 @@
 
 This document outlines when and how various species were domesticated throughout cassowary civilization's development, connecting their evolutionary advantages to specific cultural needs. For a complete chronology of cassowary development, see the [Timeline](../Timeline.md).
 
+## Related Documents
+
+- [Domesticated Species](./Domesticated%20Species.md) - Detailed biological profiles of each domesticated species
+- [The Diprotodon Powered Transport System](./The%20Diprotodon%20Powered%20Transport%20System.md) - Further details on diprotodon applications
+- [The Fire Revolution](./The%20Fire%20Revolution.md) - How fire management influenced domestication patterns
+
 ---
 
 ## Early Phase Domestication (~90,000 - 88,000 BCE)
@@ -11,22 +17,16 @@ This document outlines when and how various species were domesticated throughout
 **Witchetty Grubs (Endoxyla leucomochla)**
 
 - **Time of Domestication:** ~89,500 BCE
-- **Natural Trait Utilization:** High protein and fat content made these larvae valuable nutritional resources.
-- **Domestication Process:**
-  - Initial cultivation involved creating artificial host environments using decaying wood
-  - Later refinements included selective breeding for size and growth rate
-  - Eventual development of modular "grub farms" using hollowed logs and controlled decay
-- **Cultural Impact:** Became the first reliable protein source that could be produced year-round, supporting larger cassowary population densities.
+- **Key Innovation:** Creation of artificial host environments using decaying wood
+- **Cultural Impact:** First reliable year-round protein source supporting larger population densities
+- **For full details:** See [Domesticated Species - Witchetty Grubs](./Domesticated%20Species.md#4-witchetty-grubs-living-protein-factories)
 
 **Honey Pot Ants (Camponotus inflatus)**
 
 - **Time of Domestication:** ~89,200 BCE
-- **Natural Trait Utilization:** Ability to store sweet nectar in their abdomens.
-- **Domestication Process:**
-  - Early management involved identifying and protecting natural colonies
-  - Development of portable colonies in clay pots or hollow gourds
-  - Selective breeding for increased nectar storage capacity
-- **Cultural Impact:** Provided a reliable sweetener source before fruit domestication; later became associated with luxury and celebration.
+- **Key Innovation:** Development of portable colonies in clay pots or hollow gourds
+- **Cultural Impact:** Reliable sweetener source before fruit domestication
+- **For full details:** See [Domesticated Species - Honey Pot Ants](./Domesticated%20Species.md#5-honey-pot-ants-living-storage-vessels)
 
 ---
 
@@ -37,38 +37,16 @@ This document outlines when and how various species were domesticated throughout
 **Ravens (Corvus coronoides)**
 
 - **Time of Domestication:** ~200,000 BCE
-- **Natural Trait Utilization:**
-  - Pack hunting and scavenging behaviors
-  - Sensory capabilities for hunting and alerting
-  - Social structure compatible with cassowary integration
-  - Adaptability to different environments
-- **Domestication Process:**
-  - Initially attracted to cassowary settlements by food waste
-  - Natural selection favoring less fearful individuals
-  - Gradual habituation to cassowary presence over generations
-  - Selective breeding for loyalty, trainability, and work abilities
-  - Development of specialized hunting and herding techniques
-- **Cultural Impact:**
-  - Became valuable hunting companions and guard animals
-  - Enabled more efficient pest control around settlements
-  - Fostered inter-species bonding and companionship
-  - Assisted with herding of other domesticated animals
+- **Key Innovation:** Training for hunting assistance and guarding
+- **Cultural Impact:** Established model for inter-species partnerships
+- **For full details:** See [Domesticated Species - Ravens](./Domesticated%20Species.md#2-ravens-the-loyal-companions)
 
 **Cockatoos (Cacatua galerita)**
 
 - **Time of Domestication:** ~86,000 BCE
-- **Natural Trait Utilization:**
-  - Vocal mimicry abilities
-  - Social bonding tendencies
-  - Long lifespan (50-70 years)
-- **Domestication Process:**
-  - Captured as juveniles and hand-raised by cassowaries
-  - Selected for vocal clarity and memory
-  - Later bred for enhanced vocabulary retention
-- **Cultural Impact:**
-  - Revolutionized long-distance communication
-  - Became status symbols among elite cassowaries
-  - Enabled complex diplomatic exchanges between distant settlements
+- **Key Innovation:** Vocal training for message delivery
+- **Cultural Impact:** Revolutionized long-distance communication
+- **For full details:** See [Domesticated Species - Cockatoos](./Domesticated%20Species.md#1-cockatoos-the-living-voice-notes)
 
 ---
 
@@ -79,35 +57,16 @@ This document outlines when and how various species were domesticated throughout
 **Diprotodons (Diprotodon optatum)**
 
 - **Time of Domestication:** ~84,500 BCE
-- **Natural Trait Utilization:**
-  - Massive size and strength
-  - Docile temperament when not threatened
-  - Herbivorous diet easy to provide
-- **Domestication Process:**
-  - Initially managed as semi-wild herds
-  - Juvenile imprinting used to create first tame individuals
-  - Selective breeding for docility and responsiveness to commands
-  - Development of specialized harnesses and treadmill systems
-- **Cultural Impact:**
-  - Transformed transportation and heavy labor capabilities
-  - Enabled large-scale mining and construction projects
-  - Supported the development of industrial processes (~83,000 BCE)
+- **Key Innovation:** Juvenile imprinting and specialized harness systems
+- **Cultural Impact:** Transformed transportation and industrial capabilities
+- **For full details:** See [Domesticated Species - Diprotodons](./Domesticated%20Species.md#3-diprotodon-the-living-engines) and [The Diprotodon Powered Transport System](./The%20Diprotodon%20Powered%20Transport%20System.md)
 
 **Wallabies (Macropus agilis)**
 
 - **Time of Domestication:** ~84,000 BCE
-- **Natural Trait Utilization:**
-  - Adaptability to various environments
-  - Efficient water usage
-  - Manageable size
-- **Domestication Process:**
-  - Semi-domestication through habitat management
-  - Later development of managed herds
-  - Selective culling rather than controlled breeding
-- **Cultural Impact:**
-  - Provided reliable meat source without full domestication requirements
-  - Skin and fur used for clothing and decorative items
-  - Enabled expansion into more arid regions
+- **Key Innovation:** Habitat management for semi-domestication
+- **Cultural Impact:** Reliable meat source for expanding territories
+- **For full details:** See section on Wallabies in the [Domesticated Species](./Domesticated%20Species.md) document
 
 ---
 
@@ -116,18 +75,9 @@ This document outlines when and how various species were domesticated throughout
 **Eels (Anguilla australis)**
 
 - **Time of Domestication:** ~85,000 BCE
-- **Natural Trait Utilization:**
-  - High protein content
-  - Reliable migration patterns
-  - Ability to survive in constructed waterways
-- **Domestication Process:**
-  - Creation of artificial channels and traps to capture migrating eels
-  - Development of holding ponds for year-round harvesting
-  - Eventual breeding in captivity (~83,500 BCE)
-- **Cultural Impact:**
-  - Formed the basis of wetland farming techniques
-  - Enabled high-density settlements near waterways
-  - Developed into a status food for ceremonial events
+- **Key Innovation:** Artificial channels and holding ponds
+- **Cultural Impact:** Enabled high-density wetland settlements
+- **For full details:** See [Domesticated Species - Eels](./Domesticated%20Species.md#6-eels-aquatic-livestock)
 
 ---
 

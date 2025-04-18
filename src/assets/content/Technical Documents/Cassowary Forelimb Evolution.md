@@ -4,6 +4,13 @@
 
 This document details the evolutionary process through which cassowaries developed functional forelimbs capable of manipulation and tool use. It bridges scientific understanding of real cassowary anatomy with the speculative evolution in this alternate timeline.
 
+## Related Documents
+
+- [Cassowary Tool Use Evolution](./Cassowary%20Tool%20Use%20Evolution.md) - Behavioral applications of forelimb adaptations
+- [The Co-Evolution of Anticipatory Anxiety and Manipulative Traits in Cassowary Ancestors](./The%20Co-Evolution%20of%20Anticipatory%20Anxiety%20and%20Manipulative%20Traits%20in%20Cassowary%20Ancestors.md) - Psychological dimensions of forelimb evolution
+- [The Fire Revolution](./The%20Fire%20Revolution.md) - How forelimb adaptations enabled fire management
+- [Timeline](../Timeline.md) - Complete chronology of cassowary development
+
 ---
 
 ## Timeline of Anatomical Changes

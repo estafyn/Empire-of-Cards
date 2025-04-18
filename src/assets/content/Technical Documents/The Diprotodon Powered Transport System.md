@@ -4,6 +4,12 @@
 
 Diprotodons, the massive herbivorous megafauna of this world, are essential to the transport systems that connect cities, regions, and continents. Their behaviors and biology directly influence the development of both land-based and sea-based transport.
 
+## Related Documents
+
+- [Domesticated Species](./Domesticated%20Species.md) - Comprehensive overview of diprotodon biology and domestication
+- [Species Domestication Timeline](./Species%20Domestication%20Timeline.md) - Historical context of diprotodon domestication
+- [Timeline](../Timeline.md) - Complete chronology of cassowary development including transport systems
+
 ### **Key Characteristics:**
 
 - **Herd Animals with Solitary Tendencies:**  

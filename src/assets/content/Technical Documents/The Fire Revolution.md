@@ -2,6 +2,13 @@
 
 This document explores how the discovery, mastery, and cultural integration of fire became the pivotal catalyst for cassowary civilization, accelerating biological and social development in ways that parallel (and in this timeline, precede) human evolution. For a complete chronology of cassowary development, see the [Timeline](../Timeline.md).
 
+## Related Documents
+
+- [Cassowary Tool Use Evolution](./Cassowary%20Tool%20Use%20Evolution.md) - Details on the forelimb adaptations that enabled fire management
+- [Cassowary Forelimb Evolution](./Cassowary%20Forelimb%20Evolution.md) - Anatomical changes that supported fire manipulation
+- [The Co-Evolution of Anticipatory Anxiety and Manipulative Traits in Cassowary Ancestors](./The%20Co-Evolution%20of%20Anticipatory%20Anxiety%20and%20Manipulative%20Traits%20in%20Cassowary%20Ancestors.md) - Psychological adaptations to fire management
+- [Species Domestication Timeline](./Species%20Domestication%20Timeline.md) - How fire enabled species domestication
+
 ---
 
 ## The Discovery Phase (~6,000,000 – 1,000,000 BCE)

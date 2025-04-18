@@ -10,6 +10,13 @@ This document outlines the emergence and development of tool use in cassowary an
 
 The analysis is framed within the context of a scientifically structured museum exhibit developed by cassowary descendants. This museum, originally constructed by the Werribee Traders Association (WTA) during a period of colonial and extractive dominance, now functions as a liberal, evidence-based educational institution located in Narm (modern-day Melbourne). The story of cassowary tool use is one of deep evolutionary contingency, not destiny—driven by predator pressure, environmental complexity, and the unexpected utility of the clawed forelimb.
 
+## Related Documents
+
+- [Cassowary Forelimb Evolution](./Cassowary%20Forelimb%20Evolution.md) - Detailed anatomical analysis of forelimb adaptations
+- [The Fire Revolution](./The%20Fire%20Revolution.md) - How tool use enabled fire management and civilization
+- [The Co-Evolution of Anticipatory Anxiety and Manipulative Traits in Cassowary Ancestors](./The%20Co-Evolution%20of%20Anticipatory%20Anxiety%20and%20Manipulative%20Traits%20in%20Cassowary%20Ancestors.md) - Psychological drivers of tool use
+- [Species Domestication Timeline](./Species%20Domestication%20Timeline.md) - How tool use led to domestication
+
 ---
 
 ## 1. Timeline of Key Developments
