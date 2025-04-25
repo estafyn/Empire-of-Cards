@@ -101,7 +101,7 @@ Draw from real-world examples like the East India Company, Roman slavery, and co
 
 ### **2. Corporate Power:**
 
-Highlight the Werribee Traders Association’s (WTA) dominance over political and economic life.
+Highlight the Werribee Traders Association's (WTA) dominance over political and economic life.
 
 ### **3. Class Exploitation:**
 
@@ -113,7 +113,7 @@ Show how beings (human and otherwise) are treated as commodities, reflecting his
 
 ---
 
-## **VI. Don’ts**
+## **VI. Don'ts**
 
 1. **No Magic/Supernatural:** Keep events grounded in biological and technological plausibility.
 2. **Avoid Monolithic Cultures:** Cassowary societies should be diverse, with different traditions and technologies.
@@ -126,3 +126,51 @@ Show how beings (human and otherwise) are treated as commodities, reflecting his
 1. **Authenticity:** Ensure that the world feels believable. Research where necessary.
 2. **Flexibility:** The guide is a foundation, not a rigid set of rules—adapt it as needed.
 3. **Scientific Basis:** Use evolutionary biology, anthropology, and economic theory to inform world-building decisions.
+
+## Using the Glossary
+
+To reduce duplication and maintain consistency across our documentation, we've implemented a centralized Glossary system. Follow these guidelines when writing new content:
+
+### When to Reference the Glossary
+
+- When introducing a term that already exists in the Glossary
+- When describing a concept, location, or historical era that has a standard definition
+- When you want to ensure consistent terminology across multiple documents
+
+### How the System Works
+
+1. The Glossary contains centralized definitions for key terms, organized by categories
+2. Our markdown renderer automatically creates links to glossary terms it finds in your content
+3. Users can click these links to view the full definition without leaving their current context
+
+### Best Practices
+
+- Don't repeat detailed explanations of terms that exist in the Glossary
+- Mention the term using its exact wording from the Glossary for automatic linking
+- Focus your content on unique insights rather than redefining common concepts
+- Add new terms to the Glossary when they'll be used across multiple documents
+
+### Adding New Terms to the Glossary
+
+When adding a new term to the Glossary:
+
+1. Use the established heading structure (H3 for terms, H2 for categories)
+2. Write a concise, comprehensive definition
+3. Keep the heading format consistent so the linking system works properly
+4. Consider if your term fits in an existing category or needs a new one
+
+### Example
+
+**Instead of:**
+
+```markdown
+The Farmer was responsible for cultivation, particularly of insect farms and food sources. They stayed close to established territories and maintained resources.
+```
+
+**Write:**
+
+```markdown
+The Farmer played a crucial role in the group's survival by ensuring consistent food supplies.
+```
+
+The system will automatically link "The Farmer" to its Glossary definition, avoiding duplication while maintaining rich context.

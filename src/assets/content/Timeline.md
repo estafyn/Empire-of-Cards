@@ -248,23 +248,23 @@ Coastal regions flourish due to wetland expansion, but the central plains grow h
 
 Settlements form near fertile waterways, creating hierarchies based on access to land and resources.
 
-Technologies:
+**Technologies:**
 
 Advanced water management systems, including channels to maintain insect farms and hydrate settlements.
 
 The development of protective fortresses made from fire-hardened timber and stone to defend key trade hubs.
 
-Domestication of cockatoos for voice-based messages between courts, reinforcing communication networks.
+Domestication of Cockatoos for voice-based messages between courts, reinforcing communication networks.
 
-Cultures:
+**Cultures:**
 
-Queenship Rises: Female leaders, often from Connector lineages, become key figures of governance, diplomacy, and ritual. Known as "Flame Bearers," they are both political rulers and symbolic keepers of their hearths.
+Queenship Rises: Female leaders, often from Connector lineages, become key figures of governance, diplomacy, and ritual. Known as Flame Bearers, they are both political rulers and symbolic keepers of their hearths.
 
-Ritual Fire Diplomacy: Political negotiations often involve elaborate fire-lighting ceremonies and symbolic exchanges of embers.
+Ritual Fire Diplomacy becomes the foundation of political negotiations between territories.
 
 Courts are structured polycules, with Queens surrounded by advisors representing family units and artisans.
 
-Biological Changes:
+**Biological Changes:**
 
 Casques develop larger, more pronounced crests in some populations, signifying lineage and status.
 
@@ -284,22 +284,22 @@ Coastal ports expand into city-states connected by Diprotodon-powered transport 
 
 The wetlands near Werribee become trade hubs for farming and aquaculture, but overuse begins to deplete their ecosystems.
 
-Technologies:
+**Technologies:**
 
 Widespread steel usage for agricultural tools, transport tracks, and defense systems.
 
 Cable-pulled ships replace sails, using Diprotodon treadmills to power maritime trade routes.
 
-Standardized accounting and proto-currency systems are maintained by trained cockatoos who memorize and recite transaction details.
+Standardized accounting and proto-currency systems are maintained by trained Cockatoos who memorize and recite transaction details.
 
-Cultures:
+**Cultures:**
 
-Corporate Clans: Massive trading companies form, rivaling governments in influence and power. They organize their territories through contracts, debt systems, and ownership stakes in insect farms and trade routes.
+Corporate Clans form, rivaling governments in influence and power. They organize their territories through contracts, debt systems, and ownership stakes in insect farms and trade routes.
 
-Debt-Based Society: Laborers can buy shares to increase their status but risk losing everything if quotas aren't met. This leads to the rise of "partially owned citizens"—those bound by debt but still retaining partial rights.
+Debt-Based Society: Laborers can buy shares to increase their status but risk losing everything if quotas aren't met. This leads to the rise of Partially Owned Citizens—those bound by debt but still retaining partial rights.
 
 Cultural festivals shift from communal celebrations of fire to celebrations of corporate achievements, such as new trade route openings or record harvests.
 
-Biological Changes:
+**Biological Changes:**
 
 Slight cognitive adaptations in some subgroups due to the mental demands of trade negotiation and resource management. These include increased memory capacity and specialization in navigational instincts.

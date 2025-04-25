@@ -14,12 +14,12 @@ I spent five years among them—watching, listening, learning. And in the quiet 
 
 #### **The Family of Four**
 
-Even in these remote, untouched forests, the pattern of four remains. It’s not always precise, but the roles are unmistakable:
+Even in these remote, untouched forests, the pattern of four remains. It's not always precise, but the roles are unmistakable:
 
-1. **The Farmer**: No, they didn’t cultivate insects like we do—but there was always one who stayed close to their favored foraging sites. They would return daily to the richest fruit trees, carefully watching the cycles of ripening, almost as though they understood _when_ and _what_ to harvest.
-2. **The Hunter**: This was the bold one—the cassowary that ventured out further, bringing back small prizes. Sometimes it was fallen eggs or a scurrying lizard. They were the protectors and resource seekers.
-3. **The Child Rearer**: This one was constant—a watchful guardian who stood near the young, not just to protect them, but to nudge them toward lessons—how to dig for roots, how to balance caution with curiosity.
-4. **The Roamer—the Flexible One**: This role fascinated me most. A female cassowary, often the eldest, moved between the roles. She visited nearby clusters of cassowaries—not to intrude, but to observe and sometimes share her knowledge. She’d be seen with a hunting group one day, guiding them toward safer areas, then near the young the next, leading them to unexplored foraging grounds.
+1. The Farmer
+2. The Hunter
+3. The Child Rearer
+4. The Roamer—the Flexible One
 
 #### **Their Lives Without Fire**
 
@@ -35,15 +35,15 @@ One morning, she approached me with no fear. I sat still, heart pounding, as she
 
 #### **The Cassowary Courtship Tradition**
 
-And then came the season of dispersal—the time when the young grew restless and began venturing further. The Roamer guided them as they practiced independence. I watched as one juvenile, nearly grown, followed her on a visit to another group. She didn’t stay, though—it was clear her role was to bring the young to a place where they could meet others their age, learn new paths, and, eventually, form their own families.
+And then came the season of dispersal—the time when the young grew restless and began venturing further. The Roamer guided them as they practiced independence. I watched as one juvenile, nearly grown, followed her on a visit to another group. She didn't stay, though—it was clear her role was to bring the young to a place where they could meet others their age, learn new paths, and, eventually, form their own families.
 
-This wasn’t just courtship. It was knowledge-sharing—a way of expanding bonds beyond a single group. When they left their birth groves, they took with them not just survival skills but memories of how to foster connection.
+This wasn't just courtship. It was knowledge-sharing—a way of expanding bonds beyond a single group. When they left their birth groves, they took with them not just survival skills but memories of how to foster connection.
 
 #### **Why This Matters**
 
 We often speak of fire as the spark that changed us, the moment when we became who we are today. But the cassowaries in the highlands live without fire, and yet they are not lesser. They remind us that before flames, there was something older—something that lies at the core of all our success: _trust and cooperation_.
 
-In these small families of four—hunters, farmers, child rearers, and roamers—we see echoes of our present society. The Roamer, like the female Connectors in our homes, ensures that each generation doesn’t just inherit the same ideas but grows richer with new knowledge and perspectives. The hunters and farmers maintain stability, and the child rearers pass on the culture that makes us who we are.
+In these small families of four—hunters, farmers, child rearers, and roamers—we see echoes of our present society. The Roamer, like the female Connectors in our homes, ensures that each generation doesn't just inherit the same ideas but grows richer with new knowledge and perspectives. The hunters and farmers maintain stability, and the child rearers pass on the culture that makes us who we are.
 
 When we speak of the wild cassowaries, let us not speak of savagery. Let us speak of _potential_. They are us, just as we were them once. And in their quiet, humble ways, they remind us of our roots: the strength of connection, the resilience of balance, and the legacy of those who share knowledge not for their own gain but for the future."
 
