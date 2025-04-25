@@ -1,5 +1,11 @@
 # **The Diprotodon Powered Transport System**
 
+## **Historical Context**
+
+This document describes the advanced transportation technology that developed during the **Age of Companies** (~140,000 BCE, equivalent to the Victorian/industrial 1700s CE era in cassowary development). While diprotodons were initially domesticated around 84,500 BCE, the sophisticated transportation systems detailed below represent the culmination of nearly 75,000 years of technological refinement, reaching their height during the industrial period. The steel production methods mentioned were only possible after the Age of Metallurgy (~5,000 BCE) had provided the necessary technological foundation.
+
+> **Note on Document Context:** This document is presented as an in-universe technical analysis. For more information about the framing and context of technical documents, see the [Technical Documents README](./README.md).
+
 ## **The Nature of Diprotodons**
 
 Diprotodons, the massive herbivorous megafauna of this world, are essential to the transport systems that connect cities, regions, and continents. Their behaviors and biology directly influence the development of both land-based and sea-based transport.

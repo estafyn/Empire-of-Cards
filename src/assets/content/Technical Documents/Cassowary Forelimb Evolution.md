@@ -4,6 +4,8 @@
 
 This document details the evolutionary process through which cassowaries developed functional forelimbs capable of manipulation and tool use. It bridges scientific understanding of real cassowary anatomy with the speculative evolution in this alternate timeline.
 
+> **Note on Document Context:** This document is presented as an in-universe scientific analysis. For more information about the framing and context of technical documents, see the [Technical Documents README](./README.md).
+
 ## Related Documents
 
 - [Cassowary Tool Use Evolution](./Cassowary%20Tool%20Use%20Evolution.md) - Behavioral applications of forelimb adaptations

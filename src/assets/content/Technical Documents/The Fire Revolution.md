@@ -2,6 +2,8 @@
 
 This document explores how the discovery, mastery, and cultural integration of fire became the pivotal catalyst for cassowary civilization, accelerating biological and social development in ways that parallel (and in this timeline, precede) human evolution. For a complete chronology of cassowary development, see the [Timeline](../Timeline.md).
 
+> **Note on Document Context:** This document is presented as an in-universe scientific analysis. For more information about the framing and context of technical documents, see the [Technical Documents README](./README.md).
+
 ## Related Documents
 
 - [Cassowary Tool Use Evolution](./Cassowary%20Tool%20Use%20Evolution.md) - Details on the forelimb adaptations that enabled fire management

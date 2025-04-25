@@ -10,6 +10,18 @@ This document outlines when and how various species were domesticated throughout
 
 ---
 
+## Foundation Domestication (Pre-Historical Period)
+
+**Ravens (Corvus coronoides)**
+
+- **Time of Domestication:** ~200,000 BCE
+- **Key Innovation:** Training for hunting assistance and guarding
+- **Cultural Impact:** Established model for inter-species partnerships
+- **Historical Significance:** The domestication of ravens far predates all other species, occurring during the Age of Expansion. This early companionship helped establish the fundamental patterns for later domestication efforts.
+- **For full details:** See [Domesticated Species - Ravens](./Domesticated%20Species.md#2-ravens-the-loyal-companions)
+
+---
+
 ## Early Phase Domestication (~90,000 - 88,000 BCE)
 
 ### **Insects and Arthropods**
@@ -33,13 +45,6 @@ This document outlines when and how various species were domesticated throughout
 ## Mid-Phase Domestication (~88,000 - 85,000 BCE)
 
 ### **Bird Species**
-
-**Ravens (Corvus coronoides)**
-
-- **Time of Domestication:** ~200,000 BCE
-- **Key Innovation:** Training for hunting assistance and guarding
-- **Cultural Impact:** Established model for inter-species partnerships
-- **For full details:** See [Domesticated Species - Ravens](./Domesticated%20Species.md#2-ravens-the-loyal-companions)
 
 **Cockatoos (Cacatua galerita)**
 

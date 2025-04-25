@@ -15,7 +15,7 @@ This document outlines the key domesticated species in cassowary civilization, f
 
 **Species:** _Cacatua galerita_ (Sulphur-crested Cockatoo)
 
-**Time of Domestication:** ~100,000 BCE (Mid-Period)
+**Time of Domestication:** ~86,000 BCE (Mid-Phase Domestication)
 
 ### **Natural Traits Utilized:**
 
@@ -87,7 +87,7 @@ This document outlines the key domesticated species in cassowary civilization, f
 
 **Species:** _Diprotodon optatum_
 
-**Time of Domestication:** ~30,000 BCE (Late Period)
+**Time of Domestication:** ~84,500 BCE (Late Phase Domestication)
 
 ### **Natural Traits Utilized:**
 
@@ -126,7 +126,7 @@ For more details on diprotodon domestication and applications, see [The Diprotod
 
 **Species:** _Endoxyla leucomochla_ and related wood-boring larvae
 
-**Time of Domestication:** ~800,000 BCE (Early Period)
+**Time of Domestication:** ~89,500 BCE (Early Phase Domestication)
 
 ### **Natural Traits Utilized:**
 
@@ -162,7 +162,7 @@ For more details on diprotodon domestication and applications, see [The Diprotod
 
 **Species:** _Camponotus inflatus_
 
-**Time of Domestication:** ~750,000 BCE (Early Period)
+**Time of Domestication:** ~89,200 BCE (Early Phase Domestication)
 
 ### **Natural Traits Utilized:**
 
@@ -198,7 +198,7 @@ For more details on diprotodon domestication and applications, see [The Diprotod
 
 **Species:** _Anguilla australis_ (Short-finned Eel)
 
-**Time of Domestication:** ~40,000 BCE (Late Period)
+**Time of Domestication:** ~85,000 BCE (Special Case: Aquatic Species)
 
 ### **Natural Traits Utilized:**
 

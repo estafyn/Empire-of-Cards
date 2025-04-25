@@ -15,6 +15,8 @@ The Co‑Evolution of Anticipatory Anxiety and Manipulative Traits in Cassowary 
   2. Anxiety traits co‑evolved with climbing claws and early tool use.
   3. Epigenetic and social transmission reinforced anxiety phenotypes across generations.
 
+> **Note on Document Context:** This document is presented as an in-universe scientific paper. For more information about the framing and context of technical documents, see the [Technical Documents README](./README.md).
+
 ## Related Documents
 
 - [Cassowary Tool Use Evolution](./Cassowary%20Tool%20Use%20Evolution.md) - Behavioral applications of anxiety-driven adaptations
