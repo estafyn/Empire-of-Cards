@@ -10,6 +10,7 @@ This document explores how the discovery, mastery, and cultural integration of f
 - [Cassowary Forelimb Evolution](./Cassowary%20Forelimb%20Evolution.md) - Anatomical changes that supported fire manipulation
 - [The Co-Evolution of Anticipatory Anxiety and Manipulative Traits in Cassowary Ancestors](./The%20Co-Evolution%20of%20Anticipatory%20Anxiety%20and%20Manipulative%20Traits%20in%20Cassowary%20Ancestors.md) - Psychological adaptations to fire management
 - [Species Domestication Timeline](./Species%20Domestication%20Timeline.md) - How fire enabled species domestication
+- [Cask Expansion and Juvenile Dependency in Mid-Pliocene Cassowaries](./Cask%20Expansion%20and%20Juvenile%20Dependency%20in%20Mid-Pliocene%20Cassowaries.md) - Detailed analysis of neurological and developmental changes during the fire revolution
 
 ---
 

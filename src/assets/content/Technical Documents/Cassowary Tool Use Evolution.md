@@ -18,6 +18,7 @@ The analysis is framed within the context of a scientifically structured museum 
 - [The Fire Revolution](./The%20Fire%20Revolution.md) - How tool use enabled fire management and civilization
 - [The Co-Evolution of Anticipatory Anxiety and Manipulative Traits in Cassowary Ancestors](./The%20Co-Evolution%20of%20Anticipatory%20Anxiety%20and%20Manipulative%20Traits%20in%20Cassowary%20Ancestors.md) - Psychological drivers of tool use
 - [Species Domestication Timeline](./Species%20Domestication%20Timeline.md) - How tool use led to domestication
+- [Cask Expansion and Juvenile Dependency in Mid-Pliocene Cassowaries](./Cask%20Expansion%20and%20Juvenile%20Dependency%20in%20Mid-Pliocene%20Cassowaries.md) - Neurological and developmental consequences of tool use and fire management
 
 ---
 
