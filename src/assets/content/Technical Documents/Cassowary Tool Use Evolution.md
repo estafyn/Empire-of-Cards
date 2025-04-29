@@ -23,26 +23,26 @@ The analysis is framed within the context of a scientifically structured museum 
 
 ## 1. Timeline of Key Developments
 
-### ~12 Million BCE – Climbing Claws in Juveniles
+### ~12,000,000 BCE – Climbing Claws in Juveniles
 
 - **Selective Pressure:** Arboreal predators (e.g., marsupial lions) targeting chicks.
 - **Adaptation:** Neotenic retention of juvenile climbing claws into later life stages.
 - **Evidence:** Fossilized claw impressions in vertical substrates; early wrist ossification.
 - **Function:** Gripping onto parents during escape; climbing low forest structures.
 
-### ~10 Million BCE – Subadult Mobility and Object Grasping
+### ~10,000,000 BCE – Subadult Mobility and Object Grasping
 
 - **Behavioral Shift:** Chicks and subadults begin to interact with their environment in vertical layers.
 - **Anatomical Changes:** Increase in shoulder mobility; reduced feather coverage on forelimbs.
 - **Implication:** Grasping begins to emerge not only for climbing but for stability and environmental exploration.
 
-### ~8 Million BCE – Adult Forelimb Retention and Object Manipulation
+### ~8,000,000 BCE – Adult Forelimb Retention and Object Manipulation
 
 - **Stabilized Traits:** Three-digit manus with curved, keratinized claws.
 - **Behavioral Use:** Manipulation of leaves, bark, sticks to uncover insects or reach into crevices.
 - **Functionally Pre-Tool:** No permanent modification of objects, but deliberate use of external items.
 
-### ~6 Million BCE – Emergence of Tool Use
+### ~6,000,000 BCE – Emergence of Tool Use
 
 - **Definition:** Tool use is defined here as the intentional selection and manipulation of external objects to achieve a specific outcome.
 - **Fossil Evidence:**
@@ -103,7 +103,7 @@ The analysis is framed within the context of a scientifically structured museum 
 - Elongated, curved digits suitable for precision and hooking.
 - Bone structure suggests increased muscle anchoring in chest and scapular regions.
 
-### Cask and Brain Expansion (Later Stage, ~3–1.5M BCE)
+### Cask and Brain Expansion (Later Stage, ~3,000,000–2,000,000 BCE)
 
 - Growth of the cassowary brain, eventually outgrowing the skull.
 - Cask evolved to house additional neural tissue.

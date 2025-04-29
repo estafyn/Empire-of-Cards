@@ -17,7 +17,7 @@ This document details the evolutionary process through which cassowaries develop
 
 ## Timeline of Anatomical Changes
 
-### Late Oligocene (~25 Million BCE): The Cassowary-Emu Divergence
+### Late Oligocene (~25,000,000 BCE): The Cassowary-Emu Divergence
 
 - **Shared Ancestor Characteristics:**
 
@@ -32,7 +32,7 @@ This document details the evolutionary process through which cassowaries develop
 
 ---
 
-### Late Miocene (~12-6 Million BCE): Neotenic Climbing Adaptations
+### Late Miocene (~12,000,000 - 6,000,000 BCE): Neotenic Climbing Adaptations
 
 - **Predator Pressure:**
 
@@ -49,10 +49,10 @@ This document details the evolutionary process through which cassowaries develop
     - Enhanced gripping strength through muscle development
 
 - **Anatomical and Behavioral Progression:**
-  - **~12 Million BCE:** Climbing claws in juveniles emerge with early wrist ossification
-  - **~10 Million BCE:** Subadult mobility and object grasping develop; reduced feather coverage on forelimbs
-  - **~8 Million BCE:** Adult forelimb retention and object manipulation of leaves, bark, and sticks
-  - **~6 Million BCE:** Emergence of tool use including probing insect mounds, using stones for nut cracking, and carrying fire embers
+  - **~12,000,000 BCE:** Climbing claws in juveniles emerge with early wrist ossification
+  - **~10,000,000 BCE:** Subadult mobility and object grasping develop; reduced feather coverage on forelimbs
+  - **~8,000,000 BCE:** Adult forelimb retention and object manipulation of leaves, bark, and sticks
+  - **~6,000,000 BCE:** Emergence of tool use including probing insect mounds, using stones for nut cracking, and carrying fire embers
   - Partial ossification of wrist joints allowing better articulation
   - Enhanced forelimb musculature, particularly the equivalent of the biceps and digital flexors
   - Three-digit manus with curved, keratinized claws became a stable feature
@@ -60,7 +60,7 @@ This document details the evolutionary process through which cassowaries develop
 
 ---
 
-### Early Pliocene (~5-3 Million BCE): Manipulation Capabilities
+### Early Pliocene (~5,000,000 - 3,000,000 BCE): Manipulation Capabilities
 
 - **Manipulation Advantages:**
   - Enhanced forelimbs provided access to new food sources:
@@ -81,7 +81,7 @@ This document details the evolutionary process through which cassowaries develop
 
 ---
 
-### Early Pleistocene (~2-1 Million BCE): Advanced Manipulation and Tool Use
+### Early Pleistocene (~2,000,000 - 1,000,000 BCE): Advanced Manipulation and Tool Use
 
 - **Cognitive-Manual Feedback Loop:**
 
@@ -178,7 +178,7 @@ This document details the evolutionary process through which cassowaries develop
 
 ## Fire: The Catalyst for Accelerated Evolution
 
-- The discovery and control of fire (around 1 million BCE in this timeline) became a pivotal selective pressure
+- The discovery and control of fire (around 1,000,000 BCE in this timeline) became a pivotal selective pressure
 - Fire management required precise manipulation, favorably selecting individuals with the most dexterous forelimbs
 - Hearth incubation created a novel reproductive dynamic:
   - Eggs incubated in controlled fire environments could develop longer

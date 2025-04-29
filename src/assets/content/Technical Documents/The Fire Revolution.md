@@ -33,7 +33,7 @@ This document explores how the discovery, mastery, and cultural integration of f
   - Cassowaries learn to follow smoke to find recently burned areas
   - Recognition that certain foods become more accessible or palatable after fire exposure
   - Development of "post-fire foraging" as a specialized behavior
-- **Proto-Maintenance Phase (~6 Million BCE):**
+- **Proto-Maintenance Phase (~6,000,000 BCE):**
   - Introduction of fire-carried embers into nesting sites for predator protection
   - Gradual recognition that certain materials burn longer
   - Early attempts to maintain naturally occurring fires through fuel addition
