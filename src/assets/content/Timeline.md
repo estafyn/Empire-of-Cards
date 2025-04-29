@@ -1,6 +1,6 @@
 # Timeline
 
-**Note on Dating:** This timeline uses BCE (Before Common Era) dates for consistency and clarity. While cassowary evolution and human evolution occurred on different timescales, we use human BCE dates as a reference point to help readers understand the relative progression of events. The actual cassowary timeline would be significantly longer, but this dating system helps maintain narrative coherence.
+**Note on Dating:** This timeline uses BCE (Before Common Era) dates for consistency and clarity. While cassowary evolution and human evolution occurred on different timescales, we use human BCE dates as a reference point to help readers understand the relative progression of events.
 
 ## **1\. The Cassowary-Emu Divergence**
 
@@ -76,7 +76,7 @@
 
 ### **3\. The Age of Insect Farming**
 
-**Date:** ~2,000,000 BCE
+**Date:** ~3,000,000 BCE
 
 **Environment:**
 
@@ -104,202 +104,8 @@
 
 ---
 
-### **4\. The Age of Fire**
+### **4\. The Cassowary Civilization period**
 
-**Date:** ~6,000,000 - 1,000,000 BCE
+**Date:** 2,000,010 - 2,000,000 BCE
 
-**Environment:**
-
-- Northern Australia (Cape York and **Kakadu** regions) remains forested but experiences seasonal dry spells.
-- Central Australia transitions into arid savanna, with patches of open grasslands interspersed with dry forests.
-
-**Technologies:**
-
-- Initial fire use emerges ~6 million BCE with fire-carried embers in nesting sites.
-- Progressive development of fire management from opportunistic use to deliberate maintenance.
-- By ~1 million BCE: Advanced hearth incubation increases survival rates, leading to longer hatching times and larger brains.
-
-**Cultures:**
-
-- Early fire use primarily focused on predator deterrence and opportunistic cooking.
-- Fire becomes increasingly integrated with nest building and protection.
-- By late period, hearths become central to nests, symbolizing the birth of permanent "homes."
-- Nest groups develop **rituals** around fire maintenance and feeding the hearth.
-- Emergence of anxiety-regulation rituals using fire as a focal point for communal threat processing.
-- Development of "anxiety inoculation" practices where juveniles are gradually exposed to controlled threats.
-
-**Biological Changes:**
-
-- Forelimb adaptations accelerate with fire manipulation demands.
-- Later period (~3-1.5 million BCE): Cask and brain expansion to house additional neural tissue.
-- Enhanced brain regions for both threat assessment and complex tool use co-evolve.
-- Shorter necks evolve to balance larger heads.
-- Stronger pelvic muscles and longer legs improve upright posture, enabling cassowaries to tend their fires.
-
----
-
-### **5\. The Age of Expansion**
-
-**Date:** ~270,000 BCE
-
-**Environment:**
-
-- Rainforests retreat to northern Australia and coastal regions. The interior becomes open savanna and grasslands, dotted with freshwater lakes and billabongs.
-- Papua New Guinea remains forested but develops open highlands ideal for cassowary settlements.
-
-**Technologies:**
-
-- Stone tools for cracking tough seeds, sharpening sticks, and processing prey.
-- Early versions of throwing spears and digging tools for expanding insect farms.
-
-**Cultures:**
-
-- Population booms lead to larger nesting clusters, forming early "villages."
-- Social dynamics shift as female Connectors travel between groups, carrying embers and stories.
-- **Courtship games** and ritualized competitions emerge to test the compatibility of potential nestmates.
-
-**Biological Changes:**
-
-- Upright posture becomes the norm, and cassowaries grow slightly taller to scan the open savanna.
-- Cassowaries gain broader social recognition, strengthening bonds with distant groups.
-
----
-
-### **6\. The Age of Language**
-
-**Date:** ~15,000 BCE
-
-**Environment:**
-
-- Northern Australia (Daintree and Arnhem regions) remains forested, while much of the interior becomes semi-arid.
-- Sea levels are low, creating vast migration routes across **Sahul**.
-
-**Technologies:**
-
-- Symbolic markings and territorial markers to convey information.
-- Simple woven barriers for protecting farms and nests.
-- Ravens, domesticated around 200,000 BCE, continue to serve as hunting companions and protectors.
-
-**Cultures:**
-
-- Vocal language develops, allowing detailed storytelling and negotiation.
-- Female Connectors become respected diplomats who forge alliances between nests.
-
-**Biological Changes:**
-
-- Increased brain size allows for more advanced communication and problem-solving.
-- Chicks remain under parental care longer, fostering more complex learning.
-
----
-
-### **7\. The Age of Written Language**
-
-**Date:** ~10,000 BCE
-
-**Environment:**
-
-- Wetlands and rivers expand across northern Australia. The Great Barrier Reef forms as sea levels rise.
-
-**Technologies:**
-
-- Proto-writing systems emerge to track trade, agreements, and oral histories.
-- Cockatoos are used as messengers and for verbal communication.
-
-**Cultures:**
-
-- Nests hold records of lineage and territorial claims.
-- Law emerges as a structured system of resolution, often performed as ritualized games.
-
-**Biological Changes:**
-
-- Longer communication-related vocal cords enable complex calls and "song histories."
-
----
-
-### **8\. The Age of Metallurgy**
-
-**Date:** ~5,000 BCE
-
-**Environment:**
-
-- Central Australia becomes increasingly arid, but river systems support regional hubs.
-
-**Technologies:**
-
-- Cassowaries mine and refine iron ore to forge steel tools and ceremonial objects.
-- Diprotodons are used to power treadmills and pulleys for mining and transportation.
-
-**Cultures:**
-
-- Trade hubs become proto-cities, with specialized labor and artisans.
-- Religious and social rituals center around fire and metalwork.
-
----
-
-9\. The Age of Queens
-
-**Date:** ~2,000 BCE
-
-**Environment:**
-
-Northern Australia's rainforests remain rich, though they've receded from earlier borders.
-
-Coastal regions flourish due to wetland expansion, but the central plains grow harsher and more isolated.
-
-Settlements form near fertile waterways, creating hierarchies based on access to land and resources.
-
-**Technologies:**
-
-Advanced water management systems, including channels to maintain insect farms and hydrate settlements.
-
-The development of protective fortresses made from fire-hardened timber and stone to defend key trade hubs.
-
-Domestication of Cockatoos for voice-based messages between courts, reinforcing communication networks.
-
-**Cultures:**
-
-Queenship Rises: Female leaders, often from Connector lineages, become key figures of governance, diplomacy, and ritual. Known as Flame Bearers, they are both political rulers and symbolic keepers of their hearths.
-
-Ritual Fire Diplomacy becomes the foundation of political negotiations between territories.
-
-Courts are structured polycules, with Queens surrounded by advisors representing family units and artisans.
-
-**Biological Changes:**
-
-Casques develop larger, more pronounced crests in some populations, signifying lineage and status.
-
-Vocalization patterns evolve into complex calls used during royal announcements and public disputes.
-
----
-
-10\. The Age of Companies
-
-**Date:** ~140,000 BCE (equivalent to early industrial/Victorian era in cultural development)
-
-**Environment:**
-
-Northern Australia remains forested but dotted with industrial zones near ore-rich hills.
-
-Coastal ports expand into city-states connected by Diprotodon-powered transport systems.
-
-The wetlands near Werribee become trade hubs for farming and aquaculture, but overuse begins to deplete their ecosystems.
-
-**Technologies:**
-
-Widespread steel usage for agricultural tools, transport tracks, and defense systems.
-
-Cable-pulled ships replace sails, using Diprotodon treadmills to power maritime trade routes.
-
-Standardized accounting and proto-currency systems are maintained by trained Cockatoos who memorize and recite transaction details.
-
-**Cultures:**
-
-Corporate Clans form, rivaling governments in influence and power. They organize their territories through contracts, debt systems, and ownership stakes in insect farms and trade routes.
-
-Debt-Based Society: Laborers can buy shares to increase their status but risk losing everything if quotas aren't met. This leads to the rise of Partially Owned Citizens—those bound by debt but still retaining partial rights.
-
-Cultural festivals shift from communal celebrations of fire to celebrations of corporate achievements, such as new trade route openings or record harvests.
-
-**Biological Changes:**
-
-Slight cognitive adaptations in some subgroups due to the mental demands of trade negotiation and resource management. These include increased memory capacity and specialization in navigational instincts.
+All of our Cassowary stories come out of this time period where they have written language
